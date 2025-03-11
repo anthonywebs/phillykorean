@@ -1,0 +1,5 @@
+.DS_Store
+./img/.DS_Store
+*.psd
+node_modules/
+dist/

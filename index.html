@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="Philly Korean">
+    <meta property="og:title" content="Philly Korean">
+    <meta property="og:description" content="PhillyKorean Q&A">
+    <meta property="og:image" content="./img/thumb.jpg">
+    <title>PhillyKorean</title>
+    <link href="./css/common.css" rel="stylesheet" type="text/css" />
+    <link href="./css/form.css" rel="stylesheet" type="text/css" />
+    <link href="./css/layout.css" rel="stylesheet" type="text/css" />
+    <link href="./css/type.css" rel="stylesheet" type="text/css" />
+    <link href="./css/index.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" href="./img/favi.png" type="image/x-icon"/>
+  </head>
+  <body id='js-body' class='body'>
+    <nav class='menu-wr'>
+      <div onclick='gotoHome()' class='menu'>Home</div>
+      <div onclick='handleScroll("js-content")' class='menu'>Q&A</div>
+      <div onclick='handleScroll("js-contact")' class='menu'>Contact</div>
+    </nav>
+    <div class='bg-wr'>
+      <img id='js-main-img-1' class='main-img-partial-bw' src='./img/banner-bw-m.jpg' />
+      <img id='js-main-img-2' class='main-img-partial-col' src='./img/banner-col-m.jpg' />
+      <img id='js-main-img-3' class='main-img-full' src='./img/banner-full-m.jpg' />
+    </div>
+    <header id='js-header' class='header'>
+      <div id='js-banner-wr' class='text-head-wr'>
+        <span id='js-type-01' class='text-head type-text'></span>
+        <br/>
+        <span id='js-switch-02'></span>
+        <span id='js-type-02' class='text-head type-text'></span>
+        <br/>
+        <span id='js-switch-03'></span>
+        <span id='js-type-03' class='text-head type-text'></span>
+        <br/>
+        <span id='js-switch-04'></span>
+        <span id='js-type-04' class='text-head type-text'></span>
+        <div id='js-link' class='link-details-wr'>
+          <div onclick='handleScroll("js-content")' class='link-details'><span id='js-link-details'>Q & A &gt;</span></div>
+        </div>
+      </div>
+    </header>
+    <main id ='js-content' rol='content' class='layout-wr'>
+      <div class='two-col-wr'>
+        <div class='two-col-title'>
+          PhillyKorean Q&A
+        </div>
+        <div class='two-col-desc'>
+          카카오톡 필라델피아 생활정보방에서 지난 3년 (2022-2025) 동안 나누었던 대화내용들을 AI 통해서 Q&A 형태로 변환해보았습니다. 
+          중복되거나 개인신상 등 불필요한 내용들은 제외를 하고 생활/지역 정보 위주로 정리를 했습니다. 
+        </div>
+      </div>
+
+      <div class='one-col-wr'>
+        <div class='one-col-title'>
+          How are we different?
+        </div>
+        <div id='js-table' class='table-wr'>
+          <!-- <div class='table-row'>
+            <div class='table-cell'>
+              구분
+            </div>
+            <div class='table-cell'>
+              질문
+            </div>
+            <div class='table-cell'>  
+            </div>
+          </div>
+          <div class='table-row'>
+            <div class='table-bullet'>
+              *
+            </div>
+            <div class='table-cell'>
+              요즘 은행 계좌 개설이나 휴대폰 개통할 때 따로 예약 잡고 가야 하나요? 아니면 예약 없이 방문해도 괜찮을까요?
+              <div class='q-desc'>Date: <span class='blue'>May 20, 2022</span> &nbsp; Post by <span class='id'>유유/Centercity(8월예정)</span></div>
+              <div class='answer-wr'>
+                <div class='a-desc'><span class='blue'> &gt; &nbsp; </span><span class='id'>대박나자/Philly</span>: 그냥 가셔도 되실 겁니다.</div>
+                <div class='a-desc'><span class='blue'> &gt; &nbsp; </span><span class='id'>캔들/렌스데일</span>: 4월 초에 웰스파고 은행 계좌 개설하러 예약 없이 갔는데, 직원이 계좌 개설은 예약해야 한다고 하더라고요.</div>
+              </div>
+            </div>
+          </div> -->
+
+        </div>
+
+          
+        </div><!-- end of list-->
+      </div>
+
+      <div id='js-contact' class='contact-wr'>
+        <div id='js-notice-wr' class='notice-wr hidden'>
+          <div id='js-notice-success' class='notice hidden'>
+            Your request is successfully sent to Anthony.
+          </div>
+          <div id='js-notice-err' class='notice notice-err hidden'>
+            Sorry currently my message box is full. Please contact me via my email at anthony@anthonyspace.com
+          </div>
+        </div>  
+        <div class='sec-wr'>
+          <div class='sec-title mb-16px'>
+            <!-- Contact me -->
+            Request a service
+          </div>
+          <div class='sec-desc text'>
+            If you want to experience our web services, please fill out the form below or email us directly at
+            <a href='mailto:webservice@anthonyspace.com'>phillykorean@anthonyspace.com</a>
+
+            <!-- If you’re seeking expert guidance or exploring technology solutions, feel free to reach out to me at  or submit a form below. -->
+          </div>
+        </div>
+
+        <form id='js-contact-form' action='https://formspree.io/f/mrgnvzeo' method="POST" class='contact-form-wr'>
+          <div class="contact-form-row">
+            <div class="contact-form-text">
+              <input type='off' class='form-textbox-input' id='name' name='name' autocomplete='nope' placeholder='Your name' required aria-label='Enter name'>
+            </div>
+            <div class='contact-form-sp'></div>
+            <div class="contact-form-text">
+              <input type='email' class='form-textbox-input' id='email' name='email' autocomplete='off' placeholder='Email address' required aria-label='Enter email'>
+            </div>
+            <div class='contact-form-sp'></div>
+            <div class="contact-form-text form-dropdown dropdown-fader">
+              <select class="form-textbox-input form-dropdown-select" data-ignore-tracking="true" id="js-form-service" aria-labelledby="services-dropdown_label">
+                <option disabled selected="" value="">Select a service type</option>
+                <option class="services-dropdown-item" value="Starter Kit">Request Web Starter Kit</option>
+                <option class="services-dropdown-item" value="Consulting">Consulting service</option>
+                <option class="services-dropdown-item" value="Others">Others</option>
+              </select>
+            </div>
+          </div>
+          <textarea placeholder="Please briefly explain your business and website needs." class="form-textbox-input contact-form-textarea" name="message" rows="10" required></textarea>
+          <button type='submit' class='button-blue'>Send your request</button>
+        </form>
+      </div>
+    </main>
+    <footer class='footer'>
+      © 2025 Anthony's Web Services
+    </footer>
+
+  </body>
+<script type="text/javascript" src="./js/config.js"></script>
+<script type="text/javascript" src="./js/common.js"></script>
+<script type="text/javascript" src="./js/scroll.js"></script>
+<script type="text/javascript" src="./js/contact.js"></script>
+<script type="text/javascript" src="./js/type.js"></script>
+<script type="text/javascript" src="./js/index.js"></script>
+
+</html>
