@@ -47,7 +47,7 @@
     margin-top: 128px;
     padding-top: 96px;
     background-color: #fff;
-    min-height: 70vh;
+    /* min-height: 70vh; */
 }
 
 .one-col-title {
@@ -219,7 +219,7 @@
 }
 
 .answer-wr {
-    /* display: none; */
+    display: none;
     margin-top: 12px;
 }
 
@@ -239,7 +239,100 @@
     font-size: 17px;
 }
 
+
+/* .input-wr {
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+}
+
+.inp {
+    font-size: 2rem;
+    margin-top: 6px;
+    margin-bottom: 13px;
+    text-align: right;
+    width: 260px;
+    padding: 8px;
+    border: 2px solid #e0e0e0;
+}   */
+
+.inp-key {
+    width: 400px;
+}
+.inp-select {
+    /* font-size: 2rem; */
+    width: 160px;
+
+}
+.search-wr{
+    width: 85%;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 32px;
+}
   
+.toggle-wr {
+    display: flex;
+    align-items: center;
+
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    /* width: 50px; */
+    width: 64px;
+    /* height: 24px; */
+    height: 36px;
+  }
+  
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    border-radius: 24px;
+    transition: 0.3s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 28px;
+    width: 28px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    border-radius: 50%;
+    transition: 0.3s;
+  }
+  
+  input:checked + .slider {
+    background-color: #4CAF50;
+  }
+  
+  input:checked + .slider:before {
+    transform: translateX(26px);
+  }
+  
+  .toggle-text {
+    font-size: 24px;
+    margin-left: 12px;
+    color: #808080;
+  }
+
 /* User Edit */
 
 
@@ -249,6 +342,20 @@
 }  
 
 @media only screen and (max-width: 540px) {
+    .inp-key {
+        width: 70%;
+    }
+
+    .inp-select {
+        /* font-size: 2rem; */
+        width: 70%;
+    }
+    .toggle-wr {
+        width: 70%;    
+        margin-top: 16px;
+    }
+    
+    
     .table-wr {
         width: 95%;
         

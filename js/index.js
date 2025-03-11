@@ -1,6 +1,9 @@
 'use strict';
 let DATA = [];
 let filteredData = [];
+let keyword = '';
+let currInd = 0;
+let increase = 20;
 
 const renderBanner = async () => {
   await initBanner(0);
@@ -82,7 +85,7 @@ const fetchData = async () => {
 
     DATA.sort((a, b) => b.id - a.id);
 
-    filteredData = DATA;
+    filteredData = [...DATA];
     filteredData.sort((a, b) => Math.random() - 0.5);
 
     console.log(DATA); // Use the JSON data
@@ -92,8 +95,11 @@ const fetchData = async () => {
 
 const renderTable = () => {
   const table = getEl('js-table');
+  const len = Math.min(filteredData.length, currInd + increase);
 
-  for (let i = 0; i < 20; i++) {
+
+
+  for (let i = currInd; i < len; i++) {
     const { id, date, name, question, answers } = filteredData[i];
     table.innerHTML += `
         <div id="${id}" class='table-row'>
@@ -116,6 +122,31 @@ const renderTable = () => {
     `;
   };
 }
+
+const runFilter = () => {
+  if (keyword !== '') {
+    filteredData = DATA.filter(message => {
+      return message.key.includes(keyword)
+    })
+  } else {
+    filteredData = [...DATA];
+    filteredData.sort((a, b) => Math.random() - 0.5);
+  }
+
+  console.log("AK: cnt", filteredData.length)
+  getEl('js-table').innerHTML = '';
+  renderTable();
+}
+
+const handleKeyword = e => {
+  keyword = e.value.toLowerCase();
+  console.log(e.value);
+  runFilter();
+  // VELOCITY = parseInt(e.value, 10);
+  // localStorage.setItem('VELOCITY', VELOCITY);
+  // fetchData();
+}
+
 
 const main = async () => {
   await fetchData();
