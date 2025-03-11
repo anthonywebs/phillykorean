@@ -54,8 +54,8 @@ const hideName = name => {
   return nick;
 }
 
-const fetchData = () => {
-  fetch('./js/data.json')
+const fetchData = async () => {
+  await fetch('./js/data.json')
   .then(response => {
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
@@ -118,7 +118,7 @@ const renderTable = () => {
 }
 
 const main = async () => {
-  fetchData();
+  await fetchData();
   await loadEnv();
   startEventListener();
   const param = window.location.search.split(/=/);
