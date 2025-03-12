@@ -1,7 +1,6 @@
 /* set this up main level */
 .layout-wr {
     width: 100%;
-    padding-top: 15vh;
     margin-left: auto;
     margin-right: auto;
     color: #1d1d1f;
@@ -13,7 +12,7 @@
 .two-col-wr {
     margin-left: auto;
     margin-right: auto;
-    /* padding: 10% 5%; */
+    padding: 4rem 0;
     width: 90%;
     max-width: 1200px;
     display: flex;
@@ -44,7 +43,7 @@
 }
 
 .one-col-wr {
-    margin-top: 128px;
+    /* margin-top: 128px; */
     padding-top: 96px;
     background-color: #fff;
     /* min-height: 70vh; */
@@ -336,7 +335,73 @@
   }
 
 /* User Edit */
+    .ranking_bg {
+        background-color: white;
+        max-width: 840px;
+        padding-top: 24px;
+        padding-bottom: 0;
+        padding-bottom: 36px;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 0 0 10px #D0D0D0;
+        border: 1px solid #DDDDDD;
+    }
 
+    .title {
+        color: #0272b6;
+        font-family: "SF_Pro_Display_Semibold", sans-serif;
+        font-size: 1.1rem;
+    }
+      
+    .li_main {
+        display: flex;
+        justify-content: space-between;
+        /* float: left; */
+        width: 90%;
+        position: relative;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        margin-left: auto;
+        margin-right: auto;
+        border-bottom: 1px solid #dde2e6;
+        line-height: 2em;
+    }
+    .col-mid {
+        justify-content: center;
+      }
+      
+
+    .w-ranking {
+        width: 20%;
+    }
+    .w-name {
+        width: 50%;
+    }
+    .w-score {
+        width: 40%;
+    }
+    .w {
+        /* border: 1px solid red; */
+        display:flex;
+        flex-flow: wrap;
+        font-size: 1rem;
+        line-height: 1.3rem;
+        vertical-align: middle;
+    }
+
+    .status {
+        width: 100%;
+        /* background: linear-gradient(to right, lightblue 30%, transparent 30%); */
+        border: 1px solid lightblue;
+      }
+      .status-text {
+        line-height: 1rem;
+        margin-left: 4px;
+      }
+      
+    
+
+      
 
 /* Mobile, <900px */
 @media only screen and (max-width: 900px) {
@@ -344,7 +409,14 @@
 }  
 
 @media only screen and (max-width: 540px) {
+    .ranking_bg {
+        width: 94%;
+    }
 
+    .li_main {
+        padding-top: 0.4rem;
+        padding-bottom: 0.4rem;
+    }
     .toggle-text {
         margin: 6px;
         font-size: 21px;
@@ -410,7 +482,6 @@
     }
 
     .one-col-wr {
-        margin-top: 64px;
         padding-top: 52px;
     }
 

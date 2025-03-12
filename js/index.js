@@ -148,8 +148,6 @@ const renderTable = () => {
     `;
   };
 
-  console.log("AK: fi", filteredData.length, len)
-
   if (filteredData.length > len) {
     table.innerHTML += `
           <div id='js-load-link'>
@@ -227,10 +225,34 @@ const handleClickRow = row => {
   }
 }
 
+const renderRanking = () => {
+  const table = getEl('js-ranking');
+  ranking.forEach((row, rank) => {
+    const { name, cnt } = row;
+    // const progress = parseInt(issue.donePoint / updatedTotalPoint * 100, 10);
+    const progress = parseInt(cnt/10*2/3,10) + 33;
+
+    const statusElem = `<div class='status' style='background: linear-gradient(to right, lightblue ${progress}%, transparent ${progress}%);'><span class='status-text'>${cnt}</span></div>`;
+
+    table.innerHTML += `
+        <div id='js-ul' class='al_center' aria-live='polite'>
+            <div class='li_main'>
+              <div class='w w-ranking col-mid'>${rank + 1}</div>
+              <div class='w w-name'>${name}</div>
+              <div class='w w-score col-mid'>${statusElem}</div>
+            </div>
+          </div>
+        </div>
+    `;
+  })
+
+
+}
+
 const main = async () => {
   await fetchData();
   await loadEnv();
-  startEventListener();
+  // startEventListener();
   const param = window.location.search.split(/=/);
   const id = param.length === 2 ? param[1] : '';
   // if (loc !== conv(cn)) bd.innerHTML = '';
@@ -243,7 +265,8 @@ const main = async () => {
   await loadFont();
 
   renderBanner();
-  renderTable();
+  // renderTable();
+  renderRanking();
 
   if (id === 'qna') {
     setTimeout(() =>

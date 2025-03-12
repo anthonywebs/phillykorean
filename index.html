@@ -19,7 +19,7 @@
     <nav class='menu-wr'>
       <div onclick='gotoHome()' class='menu'>Home</div>
       <div onclick='handleScroll("js-content")' class='menu'>Q&A</div>
-      <div onclick='handleScroll("js-contact")' class='menu'>Contact</div>
+      <div onclick='handleScroll("js-contact")' class='menu'>Contributors</div>
     </nav>
     <div class='bg-wr'>
       <img id='js-main-img-1' class='main-img-partial-bw' src='./img/banner-bw-m.jpg' />
@@ -58,8 +58,6 @@
         <div class="search-wr"">
           <div class="contact-form-row">
             <div class="contact-form-text inp-key">
-              <!-- <input placeholder='검색어 입력' oninput="handleKeyword(this)" type="text" name="keyword" id="js-keyword" class="inp" autocomplete="off" required /> -->
-
               <input type='text' class='form-textbox-input' id='js-keyword' oninput="handleKeyword(this)" name='keyword' autocomplete='off' placeholder='검색어 (예: "블루벨", "병원")' required aria-label='Enter keyword'>
             </div>
             <div class="contact-form-text form-dropdown dropdown-fader inp-select">
@@ -89,49 +87,25 @@
       </div>
 
       <div id='js-contact' class='contact-wr'>
-        <div id='js-notice-wr' class='notice-wr hidden'>
-          <div id='js-notice-success' class='notice hidden'>
-            Your request is successfully sent to Anthony.
+        <div class='two-col-wr'>
+          <div class='two-col-title'>
+            PhillyKorean Q&A
           </div>
-          <div id='js-notice-err' class='notice notice-err hidden'>
-            Sorry currently my message box is full. Please contact me via my email at anthony@anthonyspace.com
-          </div>
-        </div>  
-        <div class='sec-wr'>
-          <div class='sec-title mb-16px'>
-            <!-- Contact me -->
-            Request a service
-          </div>
-          <div class='sec-desc text'>
-            If you want to experience our web services, please fill out the form below or email us directly at
-            <a href='mailto:webservice@anthonyspace.com'>phillykorean@anthonyspace.com</a>
-
-            <!-- If you’re seeking expert guidance or exploring technology solutions, feel free to reach out to me at  or submit a form below. -->
+          <div class='two-col-desc'>
+            카카오톡 필라델피아 생활정보방에서 지난 3년 (2022-2025) 동안 나누었던 대화내용들을 AI 통해서 Q&A 형태로 변환해보았습니다. 
+            중복되거나 개인신상 등 불필요한 내용들은 제외를 하고 생활/지역 정보 위주로 정리를 했습니다. 
           </div>
         </div>
-
-        <form id='js-contact-form' action='https://formspree.io/f/mrgnvzeo' method="POST" class='contact-form-wr'>
-          <div class="contact-form-row">
-            <div class="contact-form-text">
-              <input type='off' class='form-textbox-input' id='name' name='name' autocomplete='nope' placeholder='Your name' required aria-label='Enter name'>
-            </div>
-            <div class='contact-form-sp'></div>
-            <div class="contact-form-text">
-              <input type='email' class='form-textbox-input' id='email' name='email' autocomplete='off' placeholder='Email address' required aria-label='Enter email'>
-            </div>
-            <div class='contact-form-sp'></div>
-            <div class="contact-form-text form-dropdown dropdown-fader">
-              <select class="form-textbox-input form-dropdown-select" data-ignore-tracking="true" id="js-form-service" aria-labelledby="services-dropdown_label">
-                <option disabled selected="" value="">Select a service type</option>
-                <option class="services-dropdown-item" value="Starter Kit">Request Web Starter Kit</option>
-                <option class="services-dropdown-item" value="Consulting">Consulting service</option>
-                <option class="services-dropdown-item" value="Others">Others</option>
-              </select>
+        <div id='js-ranking' class='ranking_bg'>
+          <div id='js-ul' class='al_center' aria-live='polite'>
+            <div class='li_main'>
+              <div class='w w-ranking col-mid title'>Rank</div>
+              <div class='w w-name title'>Name</div>
+              <div class='w w-score col-mid title'>AI Score</div>
             </div>
           </div>
-          <textarea placeholder="Please briefly explain your business and website needs." class="form-textbox-input contact-form-textarea" name="message" rows="10" required></textarea>
-          <button type='submit' class='button-blue'>Send your request</button>
-        </form>
+        </div>
+  
       </div>
     </main>
     <footer class='footer'>
@@ -139,6 +113,7 @@
     </footer>
 
   </body>
+<script type="text/javascript" src="./js/ranking.js"></script>
 <script type="text/javascript" src="./js/config.js"></script>
 <script type="text/javascript" src="./js/common.js"></script>
 <script type="text/javascript" src="./js/scroll.js"></script>
