@@ -198,7 +198,12 @@ const handleKeyword = e => {
 
 const handleCategory = e => {
   category = e?.value ?? '';
-  runFilter();
+  getEl('js-table').style.opacity = 0.2;
+  
+  setTimeout(() => {
+    getEl('js-table').style.opacity = 1;
+    runFilter();
+  }, 500);
 }
 
 const runToggle = () => {
