@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="description" content="Philly Korean">
-    <meta property="og:title" content="Philly Korean">
-    <meta property="og:description" content="PhillyKorean Q&A">
+    <meta name="description" content="PhillyKorean">
+    <meta property="og:title" content="PhillyKorean">
+    <meta property="og:description" content="Got questions? Get answers here!">
     <meta property="og:image" content="./img/thumb.jpg">
     <title>PhillyKorean</title>
     <link href="./css/common.css" rel="stylesheet" type="text/css" />
@@ -49,9 +49,25 @@
           PhillyKorean Q&A
         </div>
         <div class='two-col-desc'>
-          카카오톡 필라델피아 생활정보방에서 지난 3년 (2022-2025) 동안 나누었던 대화내용들을 AI 통해서 Q&A 형태로 변환해보았습니다. 
-          중복되거나 개인신상 등 불필요한 내용들은 제외를 하고 생활/지역 정보 위주로 정리를 했습니다. 
+          카카오톡 "필라델피아 생활정보방"에서 2022년에서 2025년 사이에 나눈 대화를 AI로 분석하여 생활 및 지역 정보를 중심으로 정리했습니다.
+
+          3년동안 400~500명이 쌓아온 대화량은 책으로 환산하면 수백 페이지에 달할 정도로 방대합니다. 보다 쉽게 읽을 수 있도록, 한번에 20개씩 로딩되도록 설정했습니다.          
         </div>
+      </div>
+      <div class='tip-wr'>
+        <div onclick='document.getElementById("js-tip").classList.remove("hidden")' class="tip tip-title more-data">&gt;&gt; 사용팁</div>
+        <ul id='js-tip' class="tip foot-note hidden">
+          <li class='list'>답글을 보시려면 해당 질문을 클릭하거나 "전체 답글 펼치기"를 선택하시면 됩니다.
+          </li>
+          <li class='list'>중복되거나 불필요한 잡담, 개인신상이라고 (AI가) 판단한 내용들은 검색결과에서 제외했습니다. 
+          </li>
+          <li class='list'>"분류"로 나누는 작업이 아직 완전하지 않습니다. 조만간 강도높은(?) 트레이닝을 통해서 완성도를 높이겠습니다.
+          </li>  
+          <li class='list'>잘못된 정보나 오작동, 삭제를 원하는 내용은 Anthony 에게 
+            <a href='mailto:philly@anthonyspace.com'>philly@anthonyspace.com</a>로 연락을 주세요.
+          </li>  
+        </ul>
+
       </div>
 
       <div class='one-col-wr'>
@@ -75,7 +91,7 @@
                 <input type="checkbox" id="toggleSwitch" onchange="handleToggle(this)">
                 <span class="slider"></span>
               </label>  
-              <span class='toggle-text'>답글 펼치기</span>
+              <span class='toggle-text'>전체 답글 펼치기</span>
             </div>
           </div>  
         </div>
@@ -109,13 +125,6 @@
             </div>
           </div>
         </div>
-        <ul class="foot-note">
-          <li class='list'>"분류"로 나누는 작업이 아직 완전하지 않습니다. 조만간 트레이닝을 더해서 완성도를 높이겠습니다.
-          </li>  
-          <li class='list'>잘못된 정보나 오작동, 삭제를 원하시는 내용이 있으면 
-            <a href='mailto:philly@anthonyspace.com'>philly@anthonyspace.com</a>로 연락을 주세요.
-          </li>  
-        </ul>
         
       </div>
     </main>

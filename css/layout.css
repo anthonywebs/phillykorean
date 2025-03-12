@@ -251,10 +251,10 @@
 }
 
 .more-data {
-    margin-top: 32px;
+    margin-top: 16px;
     font-size: 24px;
     text-align: left;
-    margin-left: 5%;
+    margin-left: 4%;
     cursor: pointer;    
 }
 
@@ -408,7 +408,7 @@
     }
 
     .foot-note {
-        margin-top: 4rem;
+        /* margin-top: 4rem; */
         /* margin-left: 0; */
         padding-left: 28px;
         text-align: left;
@@ -418,6 +418,24 @@
         word-break: keep-all;
         margin-top: 8px;
     }
+
+    .tip-wr {
+        margin-top: -3rem;
+        padding-bottom: 2rem;
+    }
+
+    .tip {
+        width: 90%;
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .tip-title {
+        cursor: pointer;
+        color: #00619A;
+    }
+
 
       
       
@@ -436,7 +454,7 @@
     }
     .list {
         font-size: 16px;
-        line-height: 22px;
+        line-height: 24px;
 
     }
 
@@ -455,9 +473,10 @@
         font-size: 20px;
     }
     
+
     .more-data {
-        margin-top: 32px;
-        font-size: 20px;
+        margin-top: 12px;
+        font-size: 18px;
     }
 
     .inp-key {
