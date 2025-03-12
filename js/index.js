@@ -149,11 +149,11 @@ const renderTable = () => {
   if (filteredData.length > len) {
     table.innerHTML += `
           <div id='js-load-link'>
-            <div class='more-data blue' onclick='handleLoadNext()'> &gt;&gt; 다음 ${increase}개 보기</div>
+            <div class='more-data blue' onclick='handleLoadNext()'> &gt;&gt; 다음 ${increase}개 열기</div>
           </div>
       `;
   }
-
+console.log("AK: len", filteredData.length)
   runToggle();
 
 

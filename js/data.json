@@ -91,7 +91,7 @@
                 "answer": "자전거 타시면 안전상 필요한 게 많습니다. REI에서 주는 혜택이 많으니 좋은 제품을 저렴하게 구매할 수 있습니다."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 9,
@@ -117,7 +117,7 @@
                 "answer": "네, 미리 예약하고 가셔야 해요."
             }
         ],
-        "category": "housing"
+        "category": "general"
     },
     {
         "id": 11,
@@ -130,7 +130,7 @@
                 "answer": "공항에 있어요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 12,
@@ -172,7 +172,7 @@
                 "answer": "저는 뉴욕 갈 때 해밀턴에서 기차 타고 가요~! 버스보다 편하고 가격도 저렴해요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 14,
@@ -345,7 +345,7 @@
                 "answer": "AAA에서 20불에 발급했고, 사진은 13불 받았어요. 저는 멤버가 아닙니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 23,
@@ -374,7 +374,7 @@
                 "answer": "레빗타운 한아름 앞에 curly’s 라고 있는데 최고인거같아요. 왠만한 곳 다 먹어봣는데 전 curly 가 제일 맛있었어요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 24,
@@ -523,7 +523,7 @@
                 "answer": "한국 운전면허 있으면 펜실베니아에서는 교환 가능하지만, 뉴저지는 실기 시험 면제만 가능해요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 33,
@@ -574,7 +574,7 @@
                 "answer": "영사관 공증을 통해 면허 교환은 가능하지만, 합법적인 신분이 필요해요. 불체자는 어렵습니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 36,
@@ -633,7 +633,7 @@
                 "answer": "미니밴은 Kia Carnival, Toyota Sienna 추천하지만, 반년 이상 대기 필요해요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 39,
@@ -803,7 +803,7 @@
                 "answer": "롱아일랜드 그린포트 좋아요. 대신에 거기서 배를 타고 커네티컷으로 넘어가시면 돼요. 자동차도 타고 넘어가는 거라 재밌어요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 49,
@@ -816,7 +816,7 @@
                 "answer": "문제는 그린포트 호텔들이 부티크 호텔 느낌이라서 가격이 상대적으로 좀 쎄요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 50,
@@ -933,7 +933,7 @@
                 "answer": "혹시 서울대 척추 재활 전문의 정선근 교수님 아세요? 이분이 하시는 유튜브와 책을 한번 보시면 좋을 거 같아요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 55,
@@ -972,7 +972,7 @@
                 "answer": "네, 바로 발급받았어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 58,
@@ -1115,7 +1115,7 @@
                 "answer": "플레이트 스티커는 없고, 차량등록증, 차량 내에 붙여주는 인스펙션 스티커 2종만 있으면 됩니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 65,
@@ -1132,7 +1132,7 @@
                 "answer": "저도 Enterprise 자주 이용했어요. 시티에서는 Hertz도 가끔 썼는데 요즘은 브랜치들도 문 닫고 없는 것 같더라고요."
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 66,
@@ -1170,7 +1170,7 @@
                 "answer": "이런 경우 왕왕 있습니다. 해당 지역 DMV에 duplication 신청하시면 메일로 날아와요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 68,
@@ -1263,7 +1263,7 @@
                 "answer": "보통 Geico나 Progressive가 저렴해서 온라인으로 가입하시면 됩니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 73,
@@ -1330,7 +1330,7 @@
                 "answer": "약국에 가면 Burn Aid 브랜드 제품도 많이 팔아요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 76,
@@ -1389,7 +1389,7 @@
                 "answer": "Ray’s 필리 치즈스테이크 맛있어요. https://g.co/kgs/TwVfCX"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 79,
@@ -1406,7 +1406,7 @@
                 "answer": "아니요, 한국인이 아니어도 괜찮아요."
             }
         ],
-        "category": "housing"
+        "category": "medical"
     },
     {
         "id": 80,
@@ -1436,7 +1436,7 @@
                 "answer": "애빙턴도 많이 가시는 것 같은데요. 한국분들은 아니고 현주? 이현주? 였던 거 같아요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 82,
@@ -1466,7 +1466,7 @@
                 "answer": "냉면은 고려정 맛있어요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 84,
@@ -1500,7 +1500,7 @@
                 "answer": "저희도 어머니 두통 때문에 모르고 응급실 갔다가 기다리기만 오질라게 기다리고 별거 받지도 못했어요... 근데 빌이 계속 날라와요.. 몇 천 불씩... 의사 비용 따로 응급실 비용 따로..."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 86,
@@ -1690,7 +1690,7 @@
                 "answer": "네 Standard로 해야겠네요!"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 96,
@@ -1707,7 +1707,7 @@
                 "answer": "감사합니다^^"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 97,
@@ -1775,7 +1775,7 @@
                 "answer": "네 urgent care 하더라구요"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 101,
@@ -1847,7 +1847,7 @@
                 "answer": "우왓!! 감사합니다ㅠㅠㅠ"
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 105,
@@ -1956,7 +1956,7 @@
                 "answer": "이제라도 이지패스 달고 빌려야겠어요;; 초행길이고 도로도 너무넓고 적응이 안되더라구요~"
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 110,
@@ -1973,7 +1973,7 @@
                 "answer": "타주 차량은 auto tag를 통해서만 가능 한걸로 알고있어요. 저희도 최근에 바꿨는데 차량 타이틀을 가지고 계신 경우는 그 자리에서 등록하고 바로 플레이트 받을 수 있어요. 파이낸싱한 차는 거의 한달 정도 걸렸던 것 같아요. JJ님께서 설명하신 것처럼 면허증 발급이 먼저 되어야해요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 111,
@@ -2015,7 +2015,7 @@
                 "answer": "멋있는 옷, 이쁜 옷, 스타일리쉬한 물건은 킹오프프러시아몰이 필라에서 부동의 1위라고 봐요 윌로우그로브몰이 2위요"
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 113,
@@ -2109,7 +2109,7 @@
                 "answer": "네, 가까운 auto tag 검색해서 찾아가심 됩니다"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 119,
@@ -2135,7 +2135,7 @@
                 "answer": "일반 치과에서는 안해줘요. Orthodontist 한테 가야되는데..그런대 자기 case 아니면 잘 안해줄꺼에요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 121,
@@ -2194,7 +2194,7 @@
                 "answer": "지금 봤어요! 네 가능했습니다. 저희는 남편은 임시발급증으로 받아서 5-10일 안에 우편으로 온다고 했고 저는 바로 정식면허증가지고 왔어요~"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 124,
@@ -2377,7 +2377,7 @@
                 "answer": "네 안전합니다 ㅎㅎ"
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 135,
@@ -2407,7 +2407,7 @@
                 "answer": "Atlantic city에 놀이기구도 있고 괜찮더라구요"
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 137,
@@ -2420,7 +2420,7 @@
                 "answer": "니만 안에 있어요"
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 138,
@@ -2509,7 +2509,7 @@
                 "answer": "제가 여기서 받았습니다"
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 143,
@@ -2530,7 +2530,7 @@
                 "answer": "신분증이라고 생각하시면돼요 2023년 5월3일부터는 그냥 면허증은 id역할을 안하고 real id가 있어야 여권없이 id로 쓸 수 있어요"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 144,
@@ -2615,7 +2615,7 @@
                 "answer": "보통 지금 당장 가야한다면 urgent care로 가 보시는것을 추천드려요"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 149,
@@ -2695,7 +2695,7 @@
                 "answer": "뭐.. 잘 아시겠지만 직거래면 Carfax 레코드도 확인해보세요."
             }
         ],
-        "category": "shopping"
+        "category": "car"
     },
     {
         "id": 153,
@@ -2874,7 +2874,7 @@
                 "answer": "제 기억이 맞다면 EZ 패스 내역 보시면 날짜가 두 개 뜰 겁니다. 하나는 톨을 지나간 날짜고 하나는 톨비 결제 날짜입니다. 항상 그 날짜는 다르게 뜨더라고요. 하루이틀이면 뜨니 걱정 안 하셔도 될 듯합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 164,
@@ -2950,7 +2950,7 @@
                 "answer": "핑크슬립이 아니라 타이틀요. 핑크슬립은 차를 사면 주는 거예요."
             }
         ],
-        "category": "shopping"
+        "category": "car"
     },
     {
         "id": 168,
@@ -2984,7 +2984,7 @@
                 "answer": "저는 그곳에서 워셔액에 소주를 섞어서 넣어서...ㅠㅠ 그렇게 하면 잘 닦인다고 하셔서 저는 다른 거 따로 넣는 것 있다고 됐다고 했는데... 뿌릴 때마다 주위에 경찰 없나 눈치 엄청 봤네요 ㅋㅋㅋ"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 170,
@@ -3014,7 +3014,7 @@
                 "answer": "https://amzn.to/3yE0Qd9 그냥 washing soda 사면 된대서 저도 저걸로 잘 쓰고 있어요."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 172,
@@ -3061,7 +3061,7 @@
                 "answer": "차 맡기고 그 앞에 Dan Dan이라는 중국집에서 국수 하나 드시고 오면 얼추 시간 맞아요 ㅎㅎ"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 175,
@@ -3133,7 +3133,7 @@
                 "answer": "저는 개인적으로 Ming's (Hatboro)도 괜찮았어요. 짜장면 안 짜서 좋았고 전체적으로 다 맛있어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 179,
@@ -3222,7 +3222,7 @@
                 "answer": "저 갔을 땐 새로 찍을 건지 원래 사진 그냥 사용할 건지 물어봤어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 184,
@@ -3286,7 +3286,7 @@
                 "answer": "Out of network를 풀 커버해 주는 보험이 있나요?? 저도 바꿔야겠어요. 혹시 어느 보험이신가요?"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 188,
@@ -3396,7 +3396,7 @@
                 "answer": "메뉴얼에 붙이는 곳이 예시로 몇 군데 나와 있어요. 저는 운전석 쪽 룸미러 왼쪽 위에 붙였어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 194,
@@ -3409,7 +3409,7 @@
                 "answer": "Rothman Orthopaedics 여기가 최고라고 해요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 195,
@@ -3447,7 +3447,7 @@
                 "answer": "All Seasons Express Car Wash, 325 N White Horse Pike, Magnolia, NJ 08049."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 197,
@@ -3464,7 +3464,7 @@
                 "answer": "실기 수업이요. 이론 말고 차 없으면 선생님이 차를 가져오십니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 198,
@@ -3494,7 +3494,7 @@
                 "answer": "블루벨에 '우리정비소'라는 곳이 있었는데, 친절하고 좋았어요~ 원하시면 번호 드릴게요!"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 200,
@@ -3511,7 +3511,7 @@
                 "answer": "개인적으로 센터시티 지점 사람 너무 많고 길거리에서 줄 서서 기다려야 하고 불친절해서 비추예요. 전 KOP 지점에서 받았는데 괜찮았습니다~"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 201,
@@ -3528,7 +3528,7 @@
                 "answer": "인비저라인 알아봤었는데 보험 미적용이라 5천 불 정도 든다고 하더라고요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 202,
@@ -3562,7 +3562,7 @@
                 "answer": "여기가 치킨까스가 괜찮았어요! Chix & Bowls 28 S 20th St, Philadelphia, PA 19103 (215) 845-5118 https://g.co/kgs/wKnA5X"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 204,
@@ -3575,7 +3575,7 @@
                 "answer": "근처는 블마나 캐멀백 많이 가요. 좀 올라가고 싶으시다면 헌터마운틴도 재밌었어요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 205,
@@ -3592,7 +3592,7 @@
                 "answer": "Uber도 same-day delivery 서비스 있는 걸로 알아요."
             }
         ],
-        "category": "restaurant"
+        "category": "general"
     },
     {
         "id": 206,
@@ -3618,7 +3618,7 @@
                 "answer": "블루벨 우리오토."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 208,
@@ -3677,7 +3677,7 @@
                 "answer": "SSA 예약 없으면 엘리베이터도 안 태워줘요ㅎㅎ 전화로 예약해야 해요. (작년 기준)"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 211,
@@ -3766,7 +3766,7 @@
                 "answer": "프리볼트 제품이면 그냥 travel adapter 사서 쓰시면 될 거 같아요."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 216,
@@ -3779,7 +3779,7 @@
                 "answer": "Greyhound 버스 있습니다."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 217,
@@ -3850,7 +3850,7 @@
                 "answer": "티켓 받은 거에 내용 없으면 우편 올 거예요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 220,
@@ -4013,7 +4013,7 @@
                 "answer": "전번 올려요~ 죄송해요 이제 봤어요 +1 (267) 257-3306 Leeron (Melissa가 소개시켜줬다고 하면 알 거예요~~)"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 227,
@@ -4141,7 +4141,7 @@
                 "answer": "그 외에 시티에서 크리스마스 장식 구경할 만한 곳은… https://goo.gl/maps/LEdKkoEhuku2LrxN8, https://goo.gl/maps/VywJWrdPRCL7nzmZ8, https://goo.gl/maps/74hVtDCAwjNRyzvY6 정도 될 거예요. Philly Zoo도 뭔가 꾸며놓는 것 같은데 안 가봐서 모르겠습니다. 좀 나가시면 Longwood Garden이나 Morris Arboretum 같은 곳도 있는데, Morris는 이브랑 당일에 닫는다네요. Franklin Square Park도 장식하고 분수쇼 같은 게 있지만 좀 규모가 작아요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 231,
@@ -4224,7 +4224,7 @@
                 "answer": "아, 그럼 그냥 가고자 하는 병원에 예약하거나 Walk-in 하면 되는군요! 감사합니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 234,
@@ -4262,7 +4262,7 @@
                 "answer": "찰리김이 제일 싸요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 236,
@@ -4324,7 +4324,7 @@
                 "answer": "밤이나 주말에는 토잉을 2시간 이상 기다려야 하는 경우가 많으니, 장거리나 새벽 운전을 해야 한다면 스페어 타이어를 구입해 가지고 다니는 것도 좋은 방법입니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 238,
@@ -4349,7 +4349,7 @@
                 "answer": "급하시면 신환 받아주는 필라델피아 근처 병원도 알아보세요. 쾌차하시길 바랍니다!"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 239,
@@ -4417,7 +4417,7 @@
                 "answer": "블루벨 근처는 아니지만 필라델피아 H마트에 있는 조폭떡볶이에서 떡볶이, 순대, 김밥 다 팝니다. 맛있게 먹었어요!"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 243,
@@ -4438,7 +4438,7 @@
                 "answer": "이곳은 Bala 지역에 있어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 244,
@@ -4497,7 +4497,7 @@
                 "answer": "와이퍼는 비쌀수록 실용성과 만족감이 커요. 코스트코에서 가장 비싼 걸 구입하는 걸 추천합니다."
             }
         ],
-        "category": "shopping"
+        "category": "car"
     },
     {
         "id": 247,
@@ -4591,7 +4591,7 @@
                 "answer": "제대로 된 맛을 원하시면 뉴저지 부산국밥을 가보세요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 253,
@@ -4625,7 +4625,7 @@
                 "answer": "아니요, 면허가 필요해요."
             }
         ],
-        "category": "shopping"
+        "category": "car"
     },
     {
         "id": 255,
@@ -4689,7 +4689,7 @@
                 "answer": "낙원떡집도 맛있어요!"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 259,
@@ -4714,7 +4714,7 @@
                 "answer": "고려정이 유일하게 숯불 바베큐라서 맛있어요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 260,
@@ -4778,7 +4778,7 @@
                 "answer": "저도 같은 곳 추천합니다. 투명하고 밀당 없는 서비스라 좋았어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 264,
@@ -4829,7 +4829,7 @@
                 "answer": "한국인 소아치과(Pediatric Dentist)는 블루벨 Charm 치과가 있어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 267,
@@ -5074,7 +5074,7 @@
                 "answer": "Kori 건너편으로 이전했다고 합니다. 공사가 완료되었는지는 확인이 필요합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 280,
@@ -5116,7 +5116,7 @@
                 "answer": "Vantrue E1 Lite 1080P WiFi Mini Dash Cam 사용 중인데, 작고 심플하지만 화질이 좋고 WiFi 기능이 있어서 편리합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 282,
@@ -5137,7 +5137,7 @@
                 "answer": "입주 전 사진을 찍어두고 보관하세요. 나중에 차감될 이유를 방지할 수 있습니다."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 283,
@@ -5183,7 +5183,7 @@
                 "answer": "아아 알겠습니다. 너무 감사드려요!"
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 285,
@@ -5329,7 +5329,7 @@
                 "answer": "보험증과 차량 등록증만 있으면 대신 가도 될 거예요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 291,
@@ -5367,7 +5367,7 @@
                 "answer": "타이어는 사이즈에 따라 가격 차이가 크니 너무 자책하지 마세요!"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 293,
@@ -5413,7 +5413,7 @@
                 "answer": "뉴욕에서도 유명한 La Colombe 커피 본점이 피쉬타운에 있어요."
             }
         ],
-        "category": "restaurant"
+        "category": "travel"
     },
     {
         "id": 295,
@@ -5485,7 +5485,7 @@
                 "answer": "South Philly Dental의 한국인 의사 선생님을 추천받아 치료받았었는데, 친절하셨어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 299,
@@ -5527,7 +5527,7 @@
                 "answer": "저도 창문 블라인드 설치해주는 분 궁금합니다 ㅋㅋㅋㅋㅋ"
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 301,
@@ -5658,7 +5658,7 @@
                 "answer": "Barclay Steakhouse도 맛있어요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 308,
@@ -5696,7 +5696,7 @@
                 "answer": "저는 그냥 빨개진 부위에 사용했었어요!"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 310,
@@ -5765,7 +5765,7 @@
                 "answer": "블루벨 와사비 추천합니다."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 315,
@@ -5782,7 +5782,7 @@
                 "answer": "이세형 (John Lee) (+1 267-265-5340, johnlee1226@gmail.com) 추천합니다."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 316,
@@ -5795,7 +5795,7 @@
                 "answer": "https://maps.app.goo.gl/uJCFmn6wrkcz254NA 추천합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 317,
@@ -5846,7 +5846,7 @@
                 "answer": "세단은 뒤에도 법적으로 70% 제한입니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 320,
@@ -5944,7 +5944,7 @@
                 "answer": "바로 ER 가시는 게 좋습니다. 맹장염을 방치하면 심각한 감염으로 발전할 수 있습니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 326,
@@ -5961,7 +5961,7 @@
                 "answer": "Pediatric Urgent Care도 별도로 있습니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 327,
@@ -6158,7 +6158,7 @@
                 "answer": "Jefferson이나 Penn 병원이 시설과 의료진이 좋아요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 340,
@@ -6184,7 +6184,7 @@
                 "answer": "한인병원 추천. 유드리 있게 당일 현금 결제 해주심. 서재필 의원 / 김종덕 내과 뭐 사고가 나셨다던가 배를 부딪히셨다던가 이러면 이알 말그대로 이멀전시. 그냥 체컵은 한인 산부인과?"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 342,
@@ -6226,7 +6226,7 @@
                 "answer": "만나랑 12바구니랑 같은 가족이 운영해요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 344,
@@ -6239,7 +6239,7 @@
                 "answer": "Sunwha Hong Md (215) 782-8823 https://maps.app.goo.gl/QneG1YoLykwPgxQa7 선생님이 연세가 좀 드셨지만 친절하시다 들었어요~"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 345,
@@ -6260,7 +6260,7 @@
                 "answer": "한인병원 추천. 유드리 있게 당일 현금 결제 해주심. 서재필 의원 / 김종덕 내과 뭐 사고가 나셨다던가 배를 부딪히셨다던가 이러면 ER 말그대로 Emergency. 그냥 체크업은 한인 산부인과?"
             }
         ],
-        "category": "travel"
+        "category": "medical"
     },
     {
         "id": 346,
@@ -6406,7 +6406,7 @@
                 "answer": "필리 서버브지역들 다 안전하고 학군도 좋아요 필리시티로 출퇴근 하시려면 lower merion이나 radnor쪽이 학군 좋고 안전하고 좀 멀어도 상관 없으심 블루벨이나 TE학군도 좋아요 원래 뉴스로 보시면 그래요 ㅋㅋ 제 미국인 친구는 한국은 북한이 저렇게 자주 미사일 쏘는데 위험해서 어찌 사냐고 합니다 ㅎㅎㅎ 뉴스로만 한국을 접하니 생기는 오해죠"
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 352,
@@ -6419,7 +6419,7 @@
                 "answer": "사설 ultrasound 돈 내고 하는곳에서 해줘요~ Before We Meet LLC (484) 231-8884 https://maps.app.goo.gl/pzXEBEPDMs9RxoiNA?g_st=ic Womb Service 3D/4D (856) 534-9124 https://maps.app.goo.gl/9iznHhDxMfsieZZd6?g_st=ic"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 353,
@@ -6452,7 +6452,7 @@
                 "answer": "그래서 필라네서 잘못 사고나면 보험 없는애들 걸리고 해요. 필라로 운전하시면 꼭 풍 커버 하도 다니셔야되요"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 354,
@@ -6508,7 +6508,7 @@
                 "answer": "싸게사려면 딜러 여러군데 알아보는 방법밖에 없는거 같아요 아니면 조금 비싸더라도 카맥스 같은데가 바가지 쓸 위험은 없고요 작년에 중고차를 한대 샀는데 전 딜러 발품했습니다 웹싸이트에서 알아봐도 실제로 가보면 차가 없거나 하자가 있거나 다른 옵션으로 바가지 씌우거나 하는데가 있어서 결국은 직접 가서 봐야합니다 이게 힘드시면 카맥스도 안전한 방법일테고요 발품파는거보단 조금 비싸지만요 아시겠지만 꼭 OTD 가격으로 비교해야하고요 리스팅 프라이스는 의미없습니다 워낙 올려치기 하는 양심없는 딜러가 많아서"
             }
         ],
-        "category": "shopping"
+        "category": "car"
     },
     {
         "id": 358,
@@ -6673,7 +6673,7 @@
                 "answer": "카톡 검색 창 에서 주간필라 라고 치시면 주간필라 신문을 받아보실수 있어요. 친구 추가 하시면 매주 목요일에 보내주시더라구요. 거기에 쿠폰 많아요~ 저번주에 타쿠 라고 새로운 스시 부페 10% 쿠폰 있어서 다녀왔는데 엄마가 너무 좋아하셨어요🙆‍♀️"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 367,
@@ -6754,7 +6754,7 @@
                 "answer": "소셜오피스가서 디나이얼레터 받으면되요"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 372,
@@ -6813,7 +6813,7 @@
                 "answer": "반찬들이 슴슴하니 특히나 어른분들께 맞는거 같아요 삼겹살먹고 볶음밥 시켰었는데 김치도 많았는데 슴슴하더라구요"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 375,
@@ -6880,7 +6880,7 @@
                 "answer": "2호점만 가봤는데 거기가 더 크고 좋다는듯요"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 378,
@@ -6905,7 +6905,7 @@
                 "answer": "엘킨스파크 hmart 푸드코트에 있는 순대국도 가격대비 나름 먹을만 합니다 순대는 적게 들었지만 내장을 마니 주더군요 거기 갈때마다 순대국 먹어요 젆ㅎ 글구 거기 1층 반찬가게서 파는 순대도 맛나요"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 379,
@@ -7057,7 +7057,7 @@
                 "answer": "뉴욕 EZ Pass는 추가 요금이 없어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 387,
@@ -7091,7 +7091,7 @@
                 "answer": "어떤 차인지 여기도 한 번 올려주세요."
             }
         ],
-        "category": "shopping"
+        "category": "car"
     },
     {
         "id": 389,
@@ -7245,7 +7245,7 @@
                 "answer": "가능하면 워런티가 남아 있는 차량을 사고, 구입 후 제조사 딜러에서 점검받는 게 좋아요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 399,
@@ -7279,7 +7279,7 @@
                 "answer": "메인라인에 연변한의원 추천해요! 임신 초기 급체를 화교 원장님이 뚫어주셨어요. 따님과 같이 진료 보시는데 두 분 다 잘하세요! 등, 손, 발, 배에 침 맞고 뚫렸어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 401,
@@ -7292,7 +7292,7 @@
                 "answer": "가능할 거예요. 가까운 코스트코 타이어 센터에 전화해 보세요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 402,
@@ -7469,7 +7469,7 @@
                 "answer": "티켓에 적힌 사이트에서 벌금 냈던 것 같아요. 아니면 체크를 보내는 방법도 있을 거예요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 411,
@@ -7503,7 +7503,7 @@
                 "answer": "보험 따라 다르시겠지만, 저흰 다음 달 출산 예정이고, Axia 산부인과 다니고 출산은 Jefferson Abington이요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 413,
@@ -7524,7 +7524,7 @@
                 "answer": "Holy Redeemer도 개인실이에요 :)"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 414,
@@ -7600,7 +7600,7 @@
                 "answer": "이 고양이는 찾았대요ㅜㅜ 시간 괜찮으시면 Kitty Cottage나 SPCA에 연락해 보세요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 418,
@@ -7782,7 +7782,7 @@
                 "answer": "오토트레이더 사이트 찾아보세요. https://www.autotrader.com/cars-for-sale/all-cars"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 428,
@@ -7811,7 +7811,7 @@
                 "answer": "몽고메리 트조에 많아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 429,
@@ -7956,7 +7956,7 @@
                 "answer": "맑은미소치과 추천드려요~ 주간필라 보고 갔는데 오픈한지 얼마 안돼서 깔끔하고 원장님 진료도 잘하세요~ https://puresmiledentistry.com/"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 438,
@@ -7969,7 +7969,7 @@
                 "answer": "학생이시면 학교 내 클리닉으로 가보세요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 439,
@@ -7982,7 +7982,7 @@
                 "answer": "트조 김밥 난리 났다더니 틱톡 때문이군요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 440,
@@ -8020,7 +8020,7 @@
                 "answer": "트조 김밥을 즉석에서 말아주는 김밥이랑 비교하면 안 될 것 같고, 편의성이 훌륭하면서도 맛도 괜찮아요. 저는 아씨나 한아름에서 비싼 가격에 비해 맛없는 김밥 먹을 바에 3.99불 주고 트조 김밥 먹을 듯요 ㅋㅋㅋ"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 442,
@@ -8037,7 +8037,7 @@
                 "answer": "저도 여기 항상 강추입니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 443,
@@ -8126,7 +8126,7 @@
                 "answer": "주소 증명은 USPS에서 신청하는 게 가장 좋아요. 주소 변경 서류를 우편으로 받아 제출할 수 있어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 448,
@@ -8155,7 +8155,7 @@
                 "answer": "용화루에서 탕수육은 한국에서 먹던 맛이고, 양장피도 맛있어요. 상하이 사천 탕수육 소스도 괜찮지만 튀김옷이 두꺼운 게 아쉬운 점이 있어요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 449,
@@ -8172,7 +8172,7 @@
                 "answer": "https://maps.app.goo.gl/F4Sopc7u1qFK9KRRA?g_st=ic 최근에 다녀왔는데 예약도 빨리 잡을 수 있고 의사 선생님도 친절했어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 450,
@@ -8189,7 +8189,7 @@
                 "answer": "저도 여기 항상 강추합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 451,
@@ -8231,7 +8231,7 @@
                 "answer": "온라인으로 하면 수수료가 좀 붙긴 하지만, 내일 금방 찰 것 같아서 저희도 온라인으로 예약했어요."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 453,
@@ -8252,7 +8252,7 @@
                 "answer": "메시지 주시면 학군 관련, 인종 구성 등 다양한 정보 알려드릴 수 있어요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 454,
@@ -8400,7 +8400,7 @@
                 "answer": "영주권자이고 5개월 남으셨다면 가능할 거라고 봅니다. 문제 될 확률은 적지만, 혹시 모르니 주의하세요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 462,
@@ -8533,7 +8533,7 @@
                 "answer": "혹시 차 정비소 추천해 주실 만한 곳 있나요? 브레이크랑 로터 교체해야 하는데.."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 471,
@@ -8618,7 +8618,7 @@
                 "answer": "가까운 DMV 방문하시면 되고, 기존 면허증과 신분증(여권 또는 영주권), 주소 증명 서류를 준비하세요. 온라인으로도 갱신할 수 있는 경우가 있으니 웹사이트 확인해 보세요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 476,
@@ -8767,7 +8767,7 @@
                 "answer": "사장님 연락처는 609-506-5695입니다. 미리 전화하고 가시면 좋을 거예요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 485,
@@ -8784,7 +8784,7 @@
                 "answer": "뮤타 자리라서 아래 주차장이 넉넉하게 있습니다."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 486,
@@ -8881,7 +8881,7 @@
                 "answer": "Kalahari Resort나 Great Wolf Lodge 추천합니다. 가족 단위로 가기 좋아요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 491,
@@ -8906,7 +8906,7 @@
                 "answer": "요즘은 온수매트보다 온열매트가 대세예요. 물 안 넣어도 되고 전자파 걱정도 적어요. 저는 한품에서 킹사이즈를 400달러 초반대에 구입했어요."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 492,
@@ -8961,7 +8961,7 @@
                 "answer": "전에 누군가 술을 가져와서 마시는 걸 본 적이 있어요!"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 495,
@@ -9008,7 +9008,7 @@
                 "answer": "https://maps.app.goo.gl/K2nzmMrd7QSXgaV8A?g_st=ic 토요일 4시까지 운영하는 곳입니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 498,
@@ -9029,7 +9029,7 @@
                 "answer": "여기 단골입니다. 고기 건더기가 실합니다."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 499,
@@ -9054,7 +9054,7 @@
                 "answer": "Tataki Ramen & Sushi (267-969-5880) 추천합니다. https://maps.app.goo.gl/xrjh15ubPNNm8CNC6?g_st=ic"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 500,
@@ -9203,7 +9203,7 @@
                 "answer": "화요일 방문하는 게 좋아요! 월요일에 생선이 들어와서 화요일이 가장 싱싱하다고 해요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 509,
@@ -9250,7 +9250,7 @@
                 "answer": "큐코드는 중국발 승객들만 확인하고, 미국발 승객들은 기내에서 나눠주는 입국카드를 작성해서 제출하면 됩니다. 저는 8월에 JFK로 출국했다가 최근에 돌아왔어요."
             }
         ],
-        "category": "shopping"
+        "category": "travel"
     },
     {
         "id": 512,
@@ -9288,7 +9288,7 @@
                 "answer": "여러 딜러에 전화해서 최저가를 비교해 보는 것도 방법이에요. 한 곳에서 제시한 가격보다 천 불 낮춰서 다른 곳에 문의해보세요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 514,
@@ -9326,7 +9326,7 @@
                 "answer": "코스트코에서도 타이어 공기압 조절할 수 있어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 516,
@@ -9343,7 +9343,7 @@
                 "answer": "줄임말은 Muta지만, 정식 이름은 그렇게 나올 거예요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 517,
@@ -9364,7 +9364,7 @@
                 "answer": "한쪽만 안 들어오면 전구 교체만 하면 될 확률이 높아요. AutoZone 같은 곳에서 퓨즈, 릴레이, 배선도 같이 확인해 보세요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 518,
@@ -9381,7 +9381,7 @@
                 "answer": "로얄이자카야, 히로키 오마카세, 피시타운 다와 오마카세, 사카나 추천해요. Hachi도 가성비 좋아요!"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 519,
@@ -9631,7 +9631,7 @@
                 "answer": "아씨 마켓에서 뉴왁 공항 가는 셔틀이 있어요. 샤프 여행사에 문의해 보세요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 529,
@@ -9677,7 +9677,7 @@
                 "answer": "자연경관이 좋고, 가족 단위 생활이 안정적이에요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 531,
@@ -9782,7 +9782,7 @@
                 "answer": "테라카와 라멘 정말 맛있어요!"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 536,
@@ -9951,7 +9951,7 @@
                 "answer": "가깝다면 유펜 병원으로 가세요. 심장 관련 증상은 응급 상황일 수 있습니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 545,
@@ -10028,7 +10028,7 @@
                 "answer": "만나바스켓 김치를 추천드립니다. 대량으로 시켜서 부분적으로 익혀 먹으면 좋아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 550,
@@ -10045,7 +10045,7 @@
                 "answer": "민트모바일 앱을 다운로드하면 데이터 사용량과 잔여량을 확인할 수 있습니다."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 551,
@@ -10066,7 +10066,7 @@
                 "answer": "보험 가입할 때 받은 서류에서 full인지 limited인지 확인하세요. Full이면 병원도 가고 변호사를 통해 진행하는 것이 좋습니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 552,
@@ -10087,7 +10087,7 @@
                 "answer": "사고로 인해 치료비가 많이 나와도 본인 건강이 우선이니 병원은 계속 가셔야 합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 553,
@@ -10100,7 +10100,7 @@
                 "answer": "영수증 등 증빙이 있으면 보상받을 수 있습니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 554,
@@ -10134,7 +10134,7 @@
                 "answer": "무조건 딜러로 가세요. 만약 워런티가 안된다면 CVT인지 확인해보세요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 556,
@@ -10151,7 +10151,7 @@
                 "answer": "저희는 브루클린 브릿지부터 맨해튼으로 원하는 코스를 짜서 이동했습니다. 대기해주면서 원하는 장소에서 내려줘서 이동이 편했습니다."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 557,
@@ -10198,7 +10198,7 @@
                 "answer": "팝니다. 하지만 잘 부서지니 조심히 잘라야 해요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 560,
@@ -10211,7 +10211,7 @@
                 "answer": "저는 치즈스테이크는 Sonny’s 아니면 Geno’s에서만 먹습니다."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 561,
@@ -10224,7 +10224,7 @@
                 "answer": "**826으로 전화하면 된다고 표지판에서 본 것 같아요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 562,
@@ -10500,7 +10500,7 @@
                 "answer": "어촌횟집?"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 578,
@@ -10517,7 +10517,7 @@
                 "answer": "무상 수리는 좀 힘들 것 같고 렌즈 스크래치는 정도에 따라 다르겠지만 코팅이 날아간 거면 복원이 힘들어요."
             }
         ],
-        "category": "housing"
+        "category": "general"
     },
     {
         "id": 579,
@@ -10589,7 +10589,7 @@
                 "answer": "215-324-3256 전화해보셔서 확인해보세요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 583,
@@ -10681,7 +10681,7 @@
                 "answer": "오늘 꼭 가봐야겠어요. 벌써 침고여요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 587,
@@ -10795,7 +10795,7 @@
                 "answer": "저는 플로리다 갈 때 저가 항공 탔다가 (99불이었나?) 짐 가격이 더 비싸서 결과적으로는 AA나 유나이티드랑 차이가 없었어요 ㅠㅠ 그 뒤론 저가항공 안 타게 되더라구요 ㅠㅠ"
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 593,
@@ -10812,7 +10812,7 @@
                 "answer": "저도 Erie 추천드립니다 가이코보다 거의 40퍼센트 이상 저렴하더라구요.."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 594,
@@ -10854,7 +10854,7 @@
                 "answer": "렌스데일에 Oki Sushi 괜차나여~"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 596,
@@ -10998,7 +10998,7 @@
                 "answer": "North Penn auto service 괜챦았어요"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 604,
@@ -11104,7 +11104,7 @@
                 "answer": "저는 엘킨스파크 한아름 안에 장용수치과 가는데 다른 어디 갔을때보다 만족했어요"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 610,
@@ -11125,7 +11125,7 @@
                 "answer": "필리 피쉬타운에 Gilda Cafe and Market 여기 에그 타르트 맛있어요 포르투갈에서 먹는 거랑 비슷한 거 같아요"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 611,
@@ -11309,7 +11309,7 @@
                 "answer": "저 자주 가는데 남자 안경끼신 분이 잘하세요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 619,
@@ -11334,7 +11334,7 @@
                 "answer": "copay는 보험 플랜마다 달라요. 꼭 doctor 보는 게 아니더라도 (nurse만 보더라도) office visit마다 copay 내야 할 수도 있어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 620,
@@ -11347,7 +11347,7 @@
                 "answer": "용화루 옆에 카츠가이가보세요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 621,
@@ -11364,7 +11364,7 @@
                 "answer": "전 H마트에서 광어 회 떠달라 하면 바로 그 자리에서 회 떠주고, 집에서 직접 잘라서 먹어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 622,
@@ -11403,7 +11403,7 @@
                 "answer": "어촌 사장님이 처음 오픈하신 분 그대로 라면 아니요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 625,
@@ -11424,7 +11424,7 @@
                 "answer": "어촌은 회도 별로고 스끼도 별로.. 스끼다시도 그냥 금방 배부른 것들만 잔뜩이에요 특히 튀김 엄청 많고."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 626,
@@ -11437,7 +11437,7 @@
                 "answer": "https://isoa.org/?gad_source=1&gclid=CjwKCAiAuNGuBhAkEiwAGId4aqsR5PD1zmIpZQQhUI9g3wFxMGap0qL_tBaDuyOwg8nk_O14IAV0MRoClA4QAvD_BwE 저희 때는 이거 많이 썼었어요."
             }
         ],
-        "category": "shopping"
+        "category": "medical"
     },
     {
         "id": 627,
@@ -11462,7 +11462,7 @@
                 "answer": "솔트보단 고려정이 나아요. 분위기나 이런 거는 솔트가 손님 모시고 가긴 나은데, 맛으론 고려정이 훨씬 나아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 628,
@@ -11475,7 +11475,7 @@
                 "answer": "Kungfu Hotpot (215) 606-1899  https://g.co/kgs/nVXAWLt 가격대비 괜찮아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 629,
@@ -11522,7 +11522,7 @@
                 "answer": "Ko-am 몇 번 간 적 있었는데 저는 괜찮았어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 632,
@@ -11543,7 +11543,7 @@
                 "answer": "김치가 갈 때마다 너무 다릅니다. 어떤 날은 익어서 맛있고, 어떤 날은 풋내 나고, 또 어떤 날은 너무 익어서 물러있고 그래요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 633,
@@ -11589,7 +11589,7 @@
                 "answer": "메가버스 왕복 15불인데, 아침에 우버비가 30불 들었습니다. 😂"
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 635,
@@ -11614,7 +11614,7 @@
                 "answer": "너무 비싸고 퀄리티 별로에요. 그 가격이면 그냥 바다이야기 가거나, H마트 사시미가 훨씬 나아요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 636,
@@ -11691,7 +11691,7 @@
                 "answer": "Mr. Pig는 한국식이고 나인팅은 핫팟이랑 같이 먹는 좀 중국화된 집이예요"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 641,
@@ -11704,7 +11704,7 @@
                 "answer": "건물뒤에 있어요"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 642,
@@ -11760,7 +11760,7 @@
                 "answer": "저는 사실 같은 결함이 3번 있었던 케이스이고 딜러에서 하도 헛소리를 하고 대응이 늦어져서 lemon law 구글링해서 알아보고 컨택했던건데 결론적으로 말하면 연락만 몇번 했다가 다행히 딜러에서 buyback 을 해줘서 해결이 된 케이스에요 https://www.lemonlaw.com/ 한번 상담해보시면 어떨까요 제가 알아본곳은 여기에요"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 646,
@@ -11869,7 +11869,7 @@
                 "answer": "전 우울증 부정기 거치고 약 먹어요. 내가 인정하는 게 중요하다고..."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 651,
@@ -11933,7 +11933,7 @@
                 "answer": "Grand View 병원에 계세요. https://www.gvh.org/provider/ronald-kriner-do 여기 웹사이트에는 Sellersville 안 적혀 있는데 Sellersville에서도 진료 보세요. Hatfield면 가까울 거예요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 655,
@@ -12000,7 +12000,7 @@
                 "answer": "사이드디쉬가 12가지? 정도, 모둠회 나오고 매운탕이요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 658,
@@ -12080,7 +12080,7 @@
                 "answer": "어촌 횟집 술 팔아요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 662,
@@ -12097,7 +12097,7 @@
                 "answer": "페북 마켓플레이스요."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 663,
@@ -12110,7 +12110,7 @@
                 "answer": "오 사가미 좋아요!"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 664,
@@ -12127,7 +12127,7 @@
                 "answer": "차이나타운에 Kung Fu Hotpot이라고 무한리필집 있는데 나쁘지 않아요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 665,
@@ -12161,7 +12161,7 @@
                 "answer": "3월31일까지로 알고 있어요~"
             }
         ],
-        "category": "shopping"
+        "category": "restaurant"
     },
     {
         "id": 667,
@@ -12178,7 +12178,7 @@
                 "answer": "블루벨이시면 여기도 갈만해요 https://maps.app.goo.gl/tnNoa8YGp5icK2g99?g_st=ic"
             }
         ],
-        "category": "housing"
+        "category": "general"
     },
     {
         "id": 668,
@@ -12195,7 +12195,7 @@
                 "answer": "여기는 애초에 CCTV가 거의 없어서... 범인을 만약 찾으신다면 운이 꽤 좋으신 편. 미국에선 흔하디 흔한 일이라 ㅜ 큰 사고 아니면 다 본인이 증거랑 범인 찾고 그래야 해서 시간도 오래 걸릴 테고... 그냥 똥 밟았다 생각하고 직접 고치시는 게 마음이 편해요."
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 669,
@@ -12212,7 +12212,7 @@
                 "answer": "푸드코트에 가서 먹어도 됩니다."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 670,
@@ -12233,7 +12233,7 @@
                 "answer": "아씨 냉동식품 칸에 냉동순대 맛나요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 671,
@@ -12250,7 +12250,7 @@
                 "answer": "급하면 urgent care 가서 받으세요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 672,
@@ -12271,7 +12271,7 @@
                 "answer": "조남수 카이로프랙틱이요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 673,
@@ -12407,7 +12407,7 @@
                 "answer": "Weee나 울타리몰에도 있어요! 명란젓 형태로."
             }
         ],
-        "category": "shopping"
+        "category": "restaurant"
     },
     {
         "id": 681,
@@ -12445,7 +12445,7 @@
                 "answer": "저도 첫 집 살 때 같이한 리얼터 너무 좋았어요! 원하시면 연락처 드릴게요 :)"
             }
         ],
-        "category": "shopping"
+        "category": "housing"
     },
     {
         "id": 683,
@@ -12458,7 +12458,7 @@
                 "answer": "콩나물 국밥 집은 모르지만, 콩나물을 키워서 국밥을 만들어 먹어 보긴 했습니다..ㅎ 콩나물 키우는 기계 추천드릴게요!"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 684,
@@ -12476,19 +12476,6 @@
             }
         ],
         "category": "restaurant"
-    },
-    {
-        "id": 685,
-        "date": "Apr 10, 2024",
-        "name": "필라예비맘/필리",
-        "question": "다운타운에 한식 추천집 있으신가요?",
-        "answers": [
-            {
-                "replier": "호홍/필라",
-                "answer": "남촌 괜찮았어요!"
-            }
-        ],
-        "category": "housing"
     },
     {
         "id": 686,
@@ -12530,7 +12517,7 @@
                 "answer": "Kpot도 가격 대비 괜찮았어요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 688,
@@ -12569,7 +12556,7 @@
                 "answer": "전 어촌횟집 매운탕이 담백하고 맛있었어요😄 너무 자극적이지 않고 염분이랑 MSG 적은 맛."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 691,
@@ -12608,7 +12595,7 @@
                 "answer": "유펜 이메일 있으세요? 이메일로 증빙했던 것 같아요."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 694,
@@ -12804,7 +12791,7 @@
                 "answer": "차이나타운 식료품점에 대패삼겹살 팔아요~ 신선하고 가격도 착해요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 706,
@@ -12881,7 +12868,7 @@
                 "answer": "에디슨 쪽이면 구글 맵에서 'avoid toll'로 설정하셔서 톨비 없이 가실 수 있습니다. 시간 차이도 얼마 안 나요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 711,
@@ -13187,7 +13174,7 @@
                 "answer": "푸드코트에 가서 먹어도 됩니다."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 729,
@@ -13200,7 +13187,7 @@
                 "answer": "남촌 괜찮았어요!"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 730,
@@ -13217,7 +13204,7 @@
                 "answer": "Sung Jin Yoo (267) 763-1900 https://g.co/kgs/XpazC9C"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 731,
@@ -13383,7 +13370,7 @@
                 "answer": "Stephen Y. Lee, MD (856) 809-4200 https://g.co/kgs/5XuUQPS 보험 없으면 진료비 160불~검사 종류에 따라 추가 비용 발생될 수 있어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 741,
@@ -13417,7 +13404,7 @@
                 "answer": "저 작년에 운전면허 바꿔봤는데 공증 필요했어요! 운전면허 뒷면에 국제면허증 있었는데도."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 743,
@@ -13451,7 +13438,7 @@
                 "answer": "필요하시면 문의 주세요!"
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 745,
@@ -13502,7 +13489,7 @@
                 "answer": "필라델피아 치고는 괜찮은 동네인데, 너무 외곽은 피하는 게 좋아요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 748,
@@ -13528,7 +13515,7 @@
                 "answer": "Broad St Mover 추천드립니다."
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 750,
@@ -13553,7 +13540,7 @@
                 "answer": "요즘엔 바다 이야기보다 제주횟집이 낫더라고요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 751,
@@ -13574,7 +13561,7 @@
                 "answer": "Jim Thorpe 지역도 괜찮을 것 같아요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 752,
@@ -13630,7 +13617,7 @@
                 "answer": "형제 오토 잘해주십니다. 사고 났을 때 갔는데 깔끔하게 해주셨어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 756,
@@ -13806,7 +13793,7 @@
                 "answer": "University of Pennsylvania 병원입니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 768,
@@ -13861,7 +13848,7 @@
                 "answer": "McCaffrey’s food market에서도 봤어요. 저는 Yardley 지점을 갔는데, Blue Bell 지점에도 있을지는 모르겠어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 771,
@@ -13903,7 +13890,7 @@
                 "answer": "KOP 지점에서도 리얼 아이디 당일 발급됐어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 773,
@@ -13920,7 +13907,7 @@
                 "answer": "차이나타운의 음식점 중에 수조 앞에 내놓고 파는 집에서 산 적 있어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 774,
@@ -14218,7 +14205,7 @@
                 "answer": "거기 나쁘지 않았어요. 근데 저는 개인적으로 Salt가 좀 더 나은 거 같더라고요ㅎㅎ"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 792,
@@ -14252,7 +14239,7 @@
                 "answer": "전 1인 옷 다림질 주 1회 1시간 정도 걸리는 것 같아요."
             }
         ],
-        "category": "housing"
+        "category": "general"
     },
     {
         "id": 794,
@@ -14337,7 +14324,7 @@
                 "answer": "https://maps.app.goo.gl/5x7gyLp62WZ56dwu9?g_st=com.google.maps.preview.copy 여기 한국분이 하셔요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 799,
@@ -14362,7 +14349,7 @@
                 "answer": "저도 여기 좋아해요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 800,
@@ -14422,7 +14409,7 @@
                 "answer": "나쁘지 않아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 804,
@@ -14465,7 +14452,7 @@
                 "answer": "제 거는 파이프에 구멍 뚫지 않고 파이프 하나 더 연결해서 정수기 통해서 물이 지나가는 제품입니다. 그렇군요! 답변 감사해요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 807,
@@ -14561,7 +14548,7 @@
                 "answer": "한국식 중국집은 아니고 authentic 중식인데 차이나타운에 Spice C 엄청 맛있어요!"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 811,
@@ -14586,7 +14573,7 @@
                 "answer": "GoGi 가 뚝배기로 바뀌었어요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 812,
@@ -14641,7 +14628,7 @@
                 "answer": "뉴저지에 대한곱창집 맛있다고 듣긴 들었어요"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 815,
@@ -14667,7 +14654,7 @@
                 "answer": "글랜밀에서는 조금 거리가 있지만 Chestnut Hill에 있는 Bredenbeck 맛있어요"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 817,
@@ -14684,7 +14671,7 @@
                 "answer": "엠블러와 그 외 근처 지역에도 한인아이들은 좀 있는 편 입니다."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 818,
@@ -14697,7 +14684,7 @@
                 "answer": "블루벨도 어떤곳은 콜로니얼 학군인 곳이 있어요. 그리고 North Wales도 Wissahickon으로 들어가는 지역이 있어요."
             }
         ],
-        "category": "travel"
+        "category": "housing"
     },
     {
         "id": 819,
@@ -14748,7 +14735,7 @@
                 "answer": "Bucks County Orthopedic Dr. Park 추천합니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 822,
@@ -14786,7 +14773,7 @@
                 "answer": "ZIP 코드에 따라 보험료가 크게 차이 납니다. 센터시티면 비쌀 수 있어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 824,
@@ -14829,7 +14816,7 @@
                 "answer": "에이치마트에 한국산 쌀 팔아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 827,
@@ -14867,7 +14854,7 @@
                 "answer": "요즘 용화루 더 맛있어진 것 같아요!"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 829,
@@ -14880,7 +14867,7 @@
                 "answer": "남한산성이요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 830,
@@ -14918,7 +14905,7 @@
                 "answer": "703-398-2226, 인스타그램 주문 링크 있습니다."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 832,
@@ -15034,7 +15021,7 @@
                 "answer": "용화루 추천합니다!"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 840,
@@ -15068,7 +15055,7 @@
                 "answer": "뉴왁으로 왔을 때 공항 셔틀 있는 숙소에서 하루 자고 다음날 오전에 공항 가서 암트랙 타고 필리 왔었어요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 842,
@@ -15098,7 +15085,7 @@
                 "answer": "아씨 정도일 것 같아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 844,
@@ -15124,7 +15111,7 @@
                 "answer": "오버나잇 반납이 될 거예요. 차 키 넣는 통이 있습니다 보통."
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 846,
@@ -15162,7 +15149,7 @@
                 "answer": "대한곱창 맛있어요. 한국에서 먹던 양념 곱창과는 조금 다르지만 맛있었어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 848,
@@ -15230,7 +15217,7 @@
                 "answer": "차이나타운 대박에 칼국수가 있는 것 같아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 852,
@@ -15251,7 +15238,7 @@
                 "answer": "이분들이 운영하는 다른 지점에 다녔었는데 괜찮았어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 853,
@@ -15281,7 +15268,7 @@
                 "answer": "저희는 로우홈은 아니지만 일주일에 한 번 수거해 가요. 보통 더 필요할 때가 거의 없었어요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 855,
@@ -15294,7 +15281,7 @@
                 "answer": "면세점에서 사면 문제없겠죠."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 856,
@@ -15307,7 +15294,7 @@
                 "answer": "Mr.Pig 삼겹 말고 목살 드세요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 857,
@@ -15485,7 +15472,7 @@
                 "answer": "Turo에서 월 500~600달러 렌트하는 것도 고려해보세요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 867,
@@ -15519,7 +15506,7 @@
                 "answer": "9/2일까지 뉴저지 트랜짓 무료 승차 가능합니다. 뉴욕까지 공짜로 다녀올 수 있어요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 869,
@@ -15536,7 +15523,7 @@
                 "answer": "Twin Jewelry (215) 548-5011에서 돌반지를 구매했어요. 단, 주변 지역이 조금 위험해서 빨리 사고 나왔어요. https://g.co/kgs/846S2Et"
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 870,
@@ -15549,7 +15536,7 @@
                 "answer": "Yang Orthodontics - Invisalign & Braces in Langhorne (215) 757-0864에서 수리했어요. 필라델피아 시내보다는 저렴했어요. https://g.co/kgs/FvGMmiU"
             }
         ],
-        "category": "housing"
+        "category": "medical"
     },
     {
         "id": 871,
@@ -15605,7 +15592,7 @@
                 "answer": "Tums는 속 더부룩할 때 (소화 안될 때) 드시고, 위가 살살 아플 때는 Pepto Bismol이 좋아요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 875,
@@ -15691,7 +15678,7 @@
                 "answer": "밤 12시 넘어서 택시 타고 앰트랙 가서 기차 타고 또 내려서 택시 타고 그런 거 다 따지면 그냥 택시 한 번 타는 게 나을 거 같아요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 881,
@@ -15712,7 +15699,7 @@
                 "answer": "차이나타운 대박에 칼국수 있는 거 같아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 882,
@@ -15751,7 +15738,7 @@
                 "answer": "면세점에서 사면 문제없겠죠."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 885,
@@ -15854,7 +15841,7 @@
                 "answer": "5가 떡집이 제일 옛날식 아닌가요?? 어머니께서 좋아하시던데요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 892,
@@ -15892,7 +15879,7 @@
                 "answer": "홍홍님 리얼터요! 잘하시는 분이세요! 저두 강추!!"
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 894,
@@ -16032,7 +16019,7 @@
                 "answer": "몇 주 전에 나이아가라 다녀왔는데 한국 여권만 주니까 몇 가지 질문(어디로 가는지, 몇 일 동안 있는지, 차에 술이 있는지)만 물어보고 입국 심사 통과 시켜 주더군요!"
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 902,
@@ -16079,7 +16066,7 @@
                 "answer": "고향산천 추천합니다."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 905,
@@ -16092,7 +16079,7 @@
                 "answer": "골프장 가면 많이 볼 수 있는데, 포코노 쪽으로 가시면 단풍이 예쁠 듯 합니다."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 906,
@@ -16109,7 +16096,7 @@
                 "answer": "현장에서 시간 지정해서 구입할 수도 있고, 구입 후 바로 입장도 가능했습니다. 우리는 시간이 어떻게 될지 몰라 미리 예매하지 않고 가서 구입 후 바로 탔어요."
             }
         ],
-        "category": "shopping"
+        "category": "travel"
     },
     {
         "id": 907,
@@ -16143,7 +16130,7 @@
                 "answer": "심한의원이 약을 잘 짓습니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 909,
@@ -16279,7 +16266,7 @@
                 "answer": "어느 지역이신가요?"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 917,
@@ -16334,7 +16321,7 @@
                 "answer": "블루벨 치과는 안 받는 보험이 많고, 다른 곳보다 비쌉니다. Pure Smile Dentistry (215) 362-4720 추천합니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 920,
@@ -16355,7 +16342,7 @@
                 "answer": "저는 H-Mart에서 구매했습니다."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 921,
@@ -16394,7 +16381,7 @@
                 "answer": "메가버스는 파산 후 피터팬 버스에 흡수되었습니다. 메가버스 앱에서 예약하면 30번가 기차역 앞에서 탈 수 있지만, 뉴욕에서 필리로 돌아오는 하차장은 Spring Garden 쪽이므로 저녁에는 위험할 수 있습니다."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 924,
@@ -16407,7 +16394,7 @@
                 "answer": "Lucky Auto Body 한국분이 운영합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 925,
@@ -16445,7 +16432,7 @@
                 "answer": "브랜드별 마모계수가 다르므로 앞바퀴, 뒷바퀴 짝을 맞추는 게 좋다고 합니다. 저는 굿이어 서비스센터에서 교체했습니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 927,
@@ -16556,7 +16543,7 @@
                 "answer": "중화루는 전 용화루 주방장이 독립해서 운영하는 곳입니다."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 934,
@@ -16611,7 +16598,7 @@
                 "answer": "한인이 많은 곳을 원하시면 블루벨이 제일 적합할 것 같습니다."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 937,
@@ -16624,7 +16611,7 @@
                 "answer": "한국분이 아니라도 괜찮다면, Ambler Dental Care 추천합니다. 신경치료 전문의로는 Dr. Nasim Levin이 좋습니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 938,
@@ -16658,7 +16645,7 @@
                 "answer": "튜닝된 엔진이나 타이밍 체인 문제는 뉴저지의 Tyspeed에서 잘 봐줍니다."
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 940,
@@ -16671,7 +16658,7 @@
                 "answer": "안전은 IIHS 레이팅을 참고하는 게 좋습니다. 운전 재미는 독일차가 낫지만, 필리에서 스트리트 파킹을 해야 한다면 일본차가 속 편할 수 있습니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 941,
@@ -16688,7 +16675,7 @@
                 "answer": "다들 타이어를 바짝 붙여서 주차하고, 도로에서 난폭 운전을 하는 경우도 많아요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 942,
@@ -16751,7 +16738,7 @@
                 "answer": "Jim Thorpe에서는 기차 투어와 버스 투어가 있는데, 버스 투어(70분) 추천합니다. 요금은 $22이고, 사전 예약하면 편리합니다."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 945,
@@ -16768,7 +16755,7 @@
                 "answer": "마을 안쪽 주택가에서 $5 내고 주차했습니다. 위치는 South St. 근처였습니다."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 946,
@@ -16781,7 +16768,7 @@
                 "answer": "네, 깨끗합니다. 버스 기사님이 유쾌하게 진행하시고, 창문이 제거된 오픈 버스라 시야가 좋지만, 추울 수 있으니 옷을 따뜻하게 입고 가세요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 947,
@@ -16932,7 +16919,7 @@
                 "answer": "팔아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 958,
@@ -16945,7 +16932,7 @@
                 "answer": "나중에 청구서가 집으로 와요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 959,
@@ -16988,7 +16975,7 @@
                 "answer": "참치과 추천합니다! 아이들이 다니기 좋습니다. https://www.charmpediatricdentistry.com/"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 962,
@@ -17005,7 +16992,7 @@
                 "answer": "https://maps.app.goo.gl/62t9NnV6F2XyyVez9 추천합니다."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 963,
@@ -17022,7 +17009,7 @@
                 "answer": "며칠 전에 고향산천에서 아구찜 먹었는데 맛있었어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 964,
@@ -17048,7 +17035,7 @@
                 "answer": "심윤경 한의원에서 팝니다. 키 크는 약 말씀하시는 거죠? https://phillyko.com/korean-directory/?pageid=4&mod=document&uid=1122"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 966,
@@ -17082,7 +17069,7 @@
                 "answer": "펜실베이니아주는 매년 안전 검사(safety inspection)와 배출가스 검사(emission test)를 해야 합니다. 연간 주행 거리가 일정 기준 이하이면 면제될 수도 있습니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 968,
@@ -17103,7 +17090,7 @@
                 "answer": "요즘 자동차 보험료가 전반적으로 많이 올랐어요. 저는 프로그레시브가 그나마 저렴해서 계속 이용하고 있어요. 온라인 견적 한번 받아보세요."
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 969,
@@ -17171,7 +17158,7 @@
                 "answer": "스프링클러 터져서 영업 중단 상태예요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 973,
@@ -17246,7 +17233,7 @@
                 "answer": "네, 중요합니다. DOT과 관련한 안내문들이 주로 우편으로 오기 때문에 주소 변경 시 업데이트를 추천합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 976,
@@ -17263,7 +17250,7 @@
                 "answer": "다른 DMV에 가서 시도해 보세요. 믿져야 본전입니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 977,
@@ -17327,7 +17314,7 @@
                 "answer": "아는 형님이 잘하시는데, 연락 원하시면 알려 드릴게요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 981,
@@ -17369,7 +17356,7 @@
                 "answer": "돈 많으면 아무거나, 중산층이면 일본 차 추천드립니다."
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 983,
@@ -17416,7 +17403,7 @@
                 "answer": "킬링턴은 지금 오픈했습니다. 대부분의 스키장은 땡스기빙 때 오픈해요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 986,
@@ -17429,7 +17416,7 @@
                 "answer": "해당 주에 거주지가 있으면 가능합니다. 은행 명세서나 유틸리티 요금서 등으로 거주 증명을 해야 합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 987,
@@ -17442,7 +17429,7 @@
                 "answer": "모니터나 TV는 보통 수리비가 새 제품 구입비용과 비슷하게 나오는 경우가 많습니다. 고가 모니터가 아니라면 블랙프라이데이에 새로 장만하시는 것도 고려해 보세요."
             }
         ],
-        "category": "housing"
+        "category": "general"
     },
     {
         "id": 988,
@@ -17688,7 +17675,7 @@
                 "answer": "베니티 드레인을 저렇게 누르면 튀어 나오고, 빼면 빠지는 걸로 설치하세요. 머리카락 걸리면 뽑아서 청소하면 되요 수도꼭지 뒤에 눌러서 튀어나오는거 말구요 Pop-up drain 또는 Push-push drain 으로 검색하시면 되요"
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 1002,
@@ -17751,7 +17738,7 @@
                 "answer": "만나 맛있죠… 아니면 뉴저지 버겐 가셔야죠.."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1005,
@@ -17764,7 +17751,7 @@
                 "answer": "전 포트리 사는데 친정 노스웰즈 갈때마다 309에 있는 베트남 쌀국수 가는데 넘 맛있어요 장소도 넓고 깨끗하고 음식도 맛있구요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1006,
@@ -17865,7 +17852,7 @@
                 "answer": "진짜 코스코 보험은 엄청 저렴합니다. 멤버십 비싼 거 가입하는 가격보다 더 이득 볼 수 있어요. 자동차보험은 코스코가 좋긴 해요.. 회원 멤버십 번호 넣어야 해서 회원만 가능할 겁니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1011,
@@ -17899,7 +17886,7 @@
                 "answer": "고려정 맛있어요!"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1013,
@@ -17962,7 +17949,7 @@
                 "answer": "상태 좋은 걸로 사시면 손질하셔서 최소 4일 냉동시켰다가 드셔도 괜찮아요. 저는 상태 좋은 걸로 사서 숙성시켜서 연어장 해먹었습니다."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1016,
@@ -18132,7 +18119,7 @@
                 "answer": "반대로 미국에서 한국으로 처방전 약 보낼 수 있나요? 어머니가 한국에 장기간 가계셔서요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 1026,
@@ -18216,7 +18203,7 @@
                 "answer": "저는 tripe 좋아해서 그거 먹는데 아무거나 드셔도 맛있어요. 근처에 Pho Ga Thanh Thanh - Pho Ga Thanh Thanh (215) 427-0483  https://g.co/kgs/ecHbk3z 닭 Pho로 유명해요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 1030,
@@ -18279,7 +18266,7 @@
                 "answer": "그렇지요."
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 1033,
@@ -18292,7 +18279,7 @@
                 "answer": "초당골 추천이요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1034,
@@ -18355,7 +18342,7 @@
                 "answer": "저는 개인적으로 테슬라 타고 있는데 장거리 여행 자주 다니는 편인데, 슈차 기다린 적은 한 번도 없고요, 목적지 찍으면 중간에 충전하고 가야 할 충전소 나오고요, 충전 시간 계산해서 목적지 도착 시간 나옵니다. 요즘 테슬라 충전소 워낙 많아요."
             }
         ],
-        "category": "housing"
+        "category": "car"
     },
     {
         "id": 1037,
@@ -18372,7 +18359,7 @@
                 "answer": "개인 톡으로 대화할 수 있을까요?"
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 1038,
@@ -18443,7 +18430,7 @@
                 "answer": "둘다 상장된 온라인은행이고 미국애들은 많이 씁니다. 요즘 대세가 온라인은행입니다. 절차가 매우 빠르고 금방 결정납니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1041,
@@ -18464,7 +18451,7 @@
                 "answer": "아주 좋은분 6프로"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1042,
@@ -18515,7 +18502,7 @@
                 "answer": "본가요?"
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 1045,
@@ -18536,7 +18523,7 @@
                 "answer": "https://www.connectbyamfam.com/costco/ 여기에서 한번 해보세요. 저는 온라인으로는 안되서 전화로 했어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1046,
@@ -18566,7 +18553,7 @@
                 "answer": "이건 어떨까요?"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1048,
@@ -18580,27 +18567,6 @@
             }
         ],
         "category": "general"
-    },
-    {
-        "id": 1049,
-        "date": "Jan 10, 2025",
-        "name": "J/Centercity",
-        "question": "아파트 이름이 무엇인가요?",
-        "answers": [
-            {
-                "replier": "Su/BrynMawr",
-                "answer": "개인 주택에 2층 유닛입니다 에어비앤비 할려다가 내놓는거라 다 준비 되어 있습니다"
-            },
-            {
-                "replier": "Bbo/필라",
-                "answer": "지역어딘지 알려주세요."
-            },
-            {
-                "replier": "Kate/wayne",
-                "answer": "혹시 가구는 얼마나 된것들인지 여쭤도 될까요? 침대나 가전제품은 어떤것들이  있는지 알고 싶어요"
-            }
-        ],
-        "category": "housing"
     },
     {
         "id": 1050,
@@ -18672,7 +18638,7 @@
                 "answer": "그 새로 생긴 뚜레주르 옆에 한인 치과 본 거 같고 주간필라에서도 본 듯 해요 여기 같아요 콘테 헤어 옆에"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 1054,
@@ -18726,7 +18692,7 @@
                 "answer": "그냥 터치업하시면 타고다니다보면 신경안쓰일정도일거에요. 페인트가 묻은거면 컴파운드로 닦으시면되고 파인거면 터치업하세요"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1056,
@@ -18743,7 +18709,7 @@
                 "answer": "메릴랜드쪽 볼티모어? 뉴저지 겨울바다? 애틀랜틱시티 롱아일랜드 아니면 아메리칸드림몰+팰팍 먹방? 음… 디씨도 좋긴하죠! 볼게 많으니까요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 1057,
@@ -18768,7 +18734,7 @@
                 "answer": "저 작년에 온몸에 두드러기가 나서 얼전케어 갔었는데 320불 정도 나왔습니다. 특별한 검사 같은 건 안 했어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 1058,
@@ -18806,7 +18772,7 @@
                 "answer": "볶음밥 맛있어요~ 짜장면 짬뽕은 보통이구요."
             }
         ],
-        "category": "housing"
+        "category": "restaurant"
     },
     {
         "id": 1060,
@@ -18866,7 +18832,7 @@
                 "answer": "정말 간단해서 직접 만들어 보는 것도…."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1064,
@@ -18904,7 +18870,7 @@
                 "answer": "https://maps.app.goo.gl/PR5GvUCE5mMPzhKBA?g_st=com.iwilab.KakaoTalk.Share 이 곳도 Bala에서는 좀 멀지만 추천합니다."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 1066,
@@ -18934,7 +18900,7 @@
                 "answer": "Dresher 지역 괜찮아요. 어퍼 더블린 타운쉽이고 주변에 블루벨, 포트워싱턴, 엠블러 등 한인 상권 접근성 나쁘지 않은 조용한 지역입니다."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 1068,
@@ -19030,7 +18996,7 @@
                 "answer": "아님 레딩터미널 마켓도 괜찮아요. 특히 당일치기로 한 번 경험해보시는 거면 움직이는 동선에서 제일 가까운데 어디서나 먹어봐도 괜찮아요 ㅎ"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1072,
@@ -19059,7 +19025,7 @@
                 "answer": "만약 당일치기로 오시는 거면 저라면 South St에 있는 Jim’s Cheesesteak 갔다가 그 근처에 있는 Magic Garden 갈 것 같아요. 도보로 가능해요. 그리고 사우스 스트릿에서 펜스랜딩도 갈 수 있어요. 좀 많이 춥긴 하겠지만요 ㅠㅠ"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1073,
@@ -19102,7 +19068,7 @@
                 "answer": "아씨에 푸드코트 쪽에 확장한 코너 보시면 고추장 큰 캔으로 팔아요. 홀세일 섹션이라고 하는데 아무나 구매할 수 있습니다."
             }
         ],
-        "category": "shopping"
+        "category": "restaurant"
     },
     {
         "id": 1076,
@@ -19173,7 +19139,7 @@
                 "answer": "한국에 없고 관절염에 좋은 약은 CBD 크림이죠. 단 성분 함량 높은 거 쓰셔야 해요. THC 성분 없고 믿을 만한 곳에서 만든 제품이요. 2000mg 이상이면 아주 관절 아픈 데 특효죠."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 1079,
@@ -19228,7 +19194,7 @@
                 "answer": "구글 맵에 beer 라고 검색해서 나오는 곳 가시는 게 나을 거예요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1082,
@@ -19257,7 +19223,7 @@
                 "answer": "거기에 Artic Scoop이라고 아이스크림 가게도 꼭 가세요! 에그와플도 팔아요."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 1083,
@@ -19464,7 +19430,7 @@
                 "answer": "저희 차도 추워지면 경고등 떴다가 날 풀리면 없어져요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1094,
@@ -19489,7 +19455,7 @@
                 "answer": "1/29에 수향미 샀어요. 6201에서요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1095,
@@ -19527,7 +19493,7 @@
                 "answer": "체스터브룩에서 할리스빌 출퇴근 힘들 것 같아요. 할리스빌 인도분들 좀 계시지만 학군은 괜찮아요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 1097,
@@ -19569,7 +19535,7 @@
                 "answer": "제 친구가 발가락 골절이었는데, 한인 카이로에서 X-ray 찍고 100불 나왔어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 1099,
@@ -19590,7 +19556,7 @@
                 "answer": "메인라인에는 별로 없고, Havertown 갈 때 Park's Best Car Wash 이용합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1100,
@@ -19670,7 +19636,7 @@
                 "answer": "리얼 아이디 수수료는 약 30~40불 정도입니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1104,
@@ -19733,7 +19699,7 @@
                 "answer": "Loop에서 구매했습니다. 예쁘고 좋은 실이 많아요. (1914 South St, Philadelphia, PA 19146)"
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 1107,
@@ -19813,7 +19779,7 @@
                 "answer": "Tryout을 한 번 사용해보세요."
             }
         ],
-        "category": "housing"
+        "category": "general"
     },
     {
         "id": 1111,
@@ -19889,7 +19855,7 @@
                 "answer": "뉴타운이 포함된 Council Rock 학군은 좋은 학군이지만, 집값이 저렴하지는 않아요. 한인이 더 많은 곳을 원하시면 남쪽의 Lower Moreland도 괜찮습니다."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 1115,
@@ -19906,7 +19872,7 @@
                 "answer": "Lower Moreland는 뉴타운보다 한인이 더 많고 학군도 좋습니다."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 1116,
@@ -19952,7 +19918,7 @@
                 "answer": "코스트코의 Kirkland 브랜드 비타민이 USP 인증을 받아서 품질이 좋다고 들었어요."
             }
         ],
-        "category": "shopping"
+        "category": "general"
     },
     {
         "id": 1118,
@@ -20040,7 +20006,7 @@
                 "answer": "차이나타운에 있는 몇몇 식당에서 판매하는 것으로 알고 있어요. 직접 방문해보시는 게 좋을 것 같아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1122,
@@ -20111,7 +20077,7 @@
                 "answer": "자동차 보험과 함께 묶으면 할인되는 경우가 많으니 같이 가입하는 게 유리할 수 있어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1125,
@@ -20132,7 +20098,7 @@
                 "answer": "저는 직접 가서 먹어봤는데, 개인적으로 Insomnia Cookies의 Snickerdoodle이 더 맛있었어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1126,
@@ -20174,7 +20140,7 @@
                 "answer": "두부식당에서 판매하는 국밥이 맛있어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1128,
@@ -20199,7 +20165,7 @@
                 "answer": "데이퀼, 나잇퀼을 드시는 것도 도움이 될 거예요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 1129,
@@ -20245,7 +20211,7 @@
                 "answer": "Waze 앱을 사용하면 톨비 정보도 나오고, 경찰이 있는 곳도 알려줘서 유용해요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1131,
@@ -20278,7 +20244,7 @@
                 "answer": "그렇다면 미드타운에서 내려서 대중교통을 이용하는 게 더 편할 거예요."
             }
         ],
-        "category": "general"
+        "category": "travel"
     },
     {
         "id": 1132,
@@ -20303,7 +20269,7 @@
                 "answer": "https://dashcamerasreviews.com/dashboard-camera-legality-usa/ 여기에서 주별 블랙박스 설치 규정을 확인할 수 있어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1133,
@@ -20408,7 +20374,7 @@
                 "answer": "여러 보험사에서 Quote(견적)을 받아보시고, 커버리지 내용을 꼼꼼히 확인하세요. 차주의 히스토리에 따라 보험료가 달라질 수 있습니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1139,
@@ -20592,7 +20558,7 @@
                 "answer": "저희 남편이 해요. 개인 톡 주시면 연락처 드릴게요!"
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 1147,
@@ -20638,7 +20604,7 @@
                 "answer": "WEEE에서 농협 풍산 김치가 맛있어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1149,
@@ -20663,7 +20629,7 @@
                 "answer": "브린모어 병원과 랭커누 병원이 좋다고 들었어요."
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 1150,
@@ -20680,7 +20646,7 @@
                 "answer": "지금이라도 EZ Pass 등록하시고, 나중에 요금 청구서가 오면 그걸로 페이하시면 돼요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1151,
@@ -20714,7 +20680,7 @@
                 "answer": "주중에 가시면 계란이 잘 있는 편이에요. 너무 늦은 시간에는 없을 수도 있어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1153,
@@ -20731,7 +20697,7 @@
                 "answer": "어퍼다비 포차 양념치킨이 맛있어요. 어지간한 치킨집보다 더 나아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1154,
@@ -20761,7 +20727,7 @@
                 "answer": "저는 Chase에서 계좌 만들 때 아마존 배송 송장을 챙겨갔고, 남편은 렌트 계약서를 챙겨갔어요."
             }
         ],
-        "category": "housing"
+        "category": "general"
     },
     {
         "id": 1156,
@@ -20846,7 +20812,7 @@
                 "answer": "저희는 Wyze 제품을 사용했어요. 손재주가 있으면 직접 설치할 수도 있어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1162,
@@ -20892,7 +20858,7 @@
                 "answer": "스프링 하우스 쪽 홀푸드 오전에 가면 계란 있어요. 문 열자마자 가는 게 좋아요!"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 1165,
@@ -20905,6 +20871,6 @@
                 "answer": "TJ가 제일 저렴한 편이에요. 하지만 오전에 가야 해요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     }
 ]
