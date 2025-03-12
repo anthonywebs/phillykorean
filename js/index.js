@@ -89,8 +89,6 @@ const fetchData = async () => {
 
     filteredData = [...DATA];
     filteredData.sort((a, b) => Math.random() - 0.5);
-
-    console.log(DATA); // Use the JSON data
   })
   .catch(error => console.error('Error loading JSON:', error));
 }
@@ -215,6 +213,15 @@ const handleToggle = e => {
   runToggle();
 }
 
+const handleRanking = () => {
+  getEl('js-ranking-btn').style.display = 'none';
+  getEl('js-loading').classList.remove('hidden');
+  setTimeout(() => {
+    getEl('js-loading').classList.add('hidden');
+    getEl('js-ranking').classList.remove('hidden')
+  }, 2000);
+}
+
 const handleClickRow = row => {
   const answerWrapper = row.querySelector('.answer-wr'); 
   if (answerWrapper) {
@@ -230,7 +237,7 @@ const renderRanking = () => {
   ranking.forEach((row, rank) => {
     const { name, cnt } = row;
     // const progress = parseInt(issue.donePoint / updatedTotalPoint * 100, 10);
-    const progress = parseInt(cnt/10*2/3,10) + 33;
+    const progress = parseInt(cnt/15,10) + 33;
 
     const statusElem = `<div class='status' style='background: linear-gradient(to right, lightblue ${progress}%, transparent ${progress}%);'><span class='status-text'>${cnt}</span></div>`;
 
@@ -265,7 +272,7 @@ const main = async () => {
   await loadFont();
 
   renderBanner();
-  // renderTable();
+  renderTable();
   renderRanking();
 
   if (id === 'qna') {

@@ -89,14 +89,18 @@
       <div id='js-contact' class='contact-wr'>
         <div class='two-col-wr'>
           <div class='two-col-title'>
-            PhillyKorean Q&A
+            Top Contributors
           </div>
           <div class='two-col-desc'>
-            카카오톡 필라델피아 생활정보방에서 지난 3년 (2022-2025) 동안 나누었던 대화내용들을 AI 통해서 Q&A 형태로 변환해보았습니다. 
-            중복되거나 개인신상 등 불필요한 내용들은 제외를 하고 생활/지역 정보 위주로 정리를 했습니다. 
+            AI 분석으로 단톡방에서 정보공유를 위해 공헌하신 분들 Top100를 선정해 보았습니다. 절대적인 수치는 아니니 그냥 재미로 보세요 :)
           </div>
         </div>
-        <div id='js-ranking' class='ranking_bg'>
+        <div id='js-ranking-btn' class='ranking-btn'>
+          <button onclick="handleRanking()" class='button-blue'>멤버별 공헌도 보기</button>
+        </div>
+        <img id='js-loading' class='loading hidden' width='256px' src="./icon/loading.gif" />
+        
+        <div id='js-ranking' class='ranking_bg hidden'>
           <div id='js-ul' class='al_center' aria-live='polite'>
             <div class='li_main'>
               <div class='w w-ranking col-mid title'>Rank</div>
@@ -105,11 +109,18 @@
             </div>
           </div>
         </div>
-  
+        <ul class="foot-note">
+          <li class='list'>"분류"로 나누는 작업이 아직 완전하지 않습니다. 조만간 트레이닝을 더해서 완성도를 높이겠습니다.
+          </li>  
+          <li class='list'>잘못된 정보나 삭제를 원하시는 내용이 있으면 
+            <a href='mailto:philly@anthonyspace.com'>philly@anthonyspace.com</a>로 연락을 주세요.
+          </li>  
+        </ul>
+        
       </div>
     </main>
     <footer class='footer'>
-      © 2025 Anthony's Web Services
+      © 2025 Anthony | Developed with ❤️
     </footer>
 
   </body>
