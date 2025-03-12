@@ -1076,7 +1076,7 @@
                 "answer": "중고차, 새 차 다 구하기 힘든 걸로 압니다. 인기 품종 중 재고 있는 거는 다 초록색, 자주색... 이런 것들.... ㅎㅎ"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 62,
@@ -1724,7 +1724,7 @@
                 "answer": "저는 SpotAngles 어플 사용해요 주차 정보 얻을 수 있어요~!"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 98,
@@ -1737,7 +1737,7 @@
                 "answer": "네. 파는 사람도 싸인을 했던 것으로 기억합니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 99,
@@ -2160,7 +2160,7 @@
                 "answer": "조리방법에 따라서 다를거같아요  저희집은  수육으로 먹을때면 껍데기도 같이요리하구요  구워먹울땨면 껍데기를 떼어서 따로 구워먹어요"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 122,
@@ -2177,7 +2177,7 @@
                 "answer": "어느지점 어느사람에게 배정받냐에 따라 다른데요 어떤 곳은 날짜까지는 확인 안하는 사람도 있었어요 ㅠ 하지만 세번째 갔을 땐 확인 하더라구요"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 123,
@@ -2708,7 +2708,7 @@
                 "answer": "39가하고 월넛이 좀 나은 거 같아요. 바로 근처는 아니겠지만 스트릿 파킹 되고요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 154,
@@ -3426,7 +3426,7 @@
                 "answer": "한국어로 시험 볼 수 있어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 196,
@@ -4731,7 +4731,7 @@
                 "answer": "숯불이 아니라 그냥 불판에 구워서 평범한 것 같아요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 261,
@@ -4744,7 +4744,7 @@
                 "answer": "아니요, 솔트는 숯불이 아니고 그냥 불판이에요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 262,
@@ -6115,7 +6115,7 @@
                 "answer": "Parc 위치는 좋지만 층간소음이 다소 있다는 리뷰도 있어요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 337,
@@ -6994,7 +6994,7 @@
                 "answer": "Korman Pepper Building 같은 곳도 주차 포함된 계약이 가능해요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 384,
@@ -7583,7 +7583,7 @@
                 "answer": "그나마 아씨 빵집에서 먹었는데 빵집을 없애놓고ㅠㅠ"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 417,
@@ -7748,7 +7748,7 @@
                 "answer": "차종이 뭔가요?"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 426,
@@ -7913,7 +7913,7 @@
                 "answer": "맨하탄에 있어요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 435,
@@ -8447,7 +8447,7 @@
                 "answer": "완전 공감합니다. 필라에서는 제대로 된 냉면 찾기가 어려워요."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 465,
@@ -8809,7 +8809,7 @@
                 "answer": "직접 비교해본 결과 홀푸드 삼겹살이 제일 맛있었어요. 썰어주기도 하니 한 번 시도해 보세요!"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 487,
@@ -9309,7 +9309,7 @@
                 "answer": "저는 작년 겨울에 붕어빵 틀 사서 만들어 먹었는데, H마트에서 냉동 붕어빵 있는 거 뒤늦게 알고 후회했어요 ㅋㅋ."
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 515,
@@ -9648,7 +9648,7 @@
                 "answer": "Backyard Beans Coffee 정말 맛있어요!"
             }
         ],
-        "category": "general"
+        "category": "restaurant"
     },
     {
         "id": 530,
@@ -10939,7 +10939,7 @@
                 "answer": "제 생각엔.....그냥 제 생각입니다 ㅎㅎㅎ... 일단 미국에 오신 이유가 무엇이었는지를 다시 한번 생각해 보시는건 어떨까요? 그 이유와 목표를 생각해 보시고, 한국에 돌아가면 어떻게 할지 생각 해보면 결정하실때 조금더 신중해질듯 합니다.  원래 다른 나라에 가면, 법, 사회 질서, 문화, 경제 모든것이 다르기 때문에, 나 자신이 사막에서도 피어나는 꽃 정도가 아니라면 이민 1세는 쉽지 않습니다.  아니면 ... 좋은 멘토를 만나시면 실수도 덜하고, 돌다리도 두드려 볼 수 있으니  좀 더 낳으실것 같기도 하고요...(smile)"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 601,
@@ -11078,7 +11078,7 @@
                 "answer": "https://philapark.org/residential-parking-permit/#:~:text=Visitor%20Day%20passes%20are%20available,with%20the%20application%20provided%20below.&text=Please%20call%20215%2D683%2D9730%20for%20additional%20information. Visitor day parking 찾아보세요"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 608,
@@ -11217,7 +11217,7 @@
                 "answer": "트렌튼역:Amtrak, NJ Transit"
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 615,
@@ -12288,7 +12288,7 @@
                 "answer": "몇 개월 인턴 하시는지요? 제가 머크에서 엄청 가까이 살아서요 ㅋ 저희 아파트 리싱 오피스 연락처라도 알려드릴까요?"
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 674,
@@ -13810,7 +13810,7 @@
                 "answer": "Thumbtack이라는 사이트에 가시면 여러 업체를 비교해보고 고를 수 있어요. 리뷰 많은 곳을 선택하면 괜찮더라고요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 769,
@@ -14252,7 +14252,7 @@
                 "answer": "Shim Acupuncture (267) 353-5333 https://g.co/kgs/FRw6xhR"
             }
         ],
-        "category": "general"
+        "category": "medical"
     },
     {
         "id": 795,
@@ -15072,7 +15072,7 @@
                 "answer": "차에 타고 있으면 상관없어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 843,
@@ -15124,7 +15124,7 @@
                 "answer": "연내에 그쪽으로 이사 갈 것 같은데 궁금합니다."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 847,
@@ -17022,7 +17022,7 @@
                 "answer": "Shades of Gray Window Tinting (215) 357-3001 https://g.co/kgs/whmvY9f 여기서 틴트 했는데 괜찮았어요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 965,
@@ -17052,7 +17052,7 @@
                 "answer": "필름 종류에 따라 다르지만 일반적으로 그 정도 가격입니다."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 967,
@@ -18313,7 +18313,7 @@
                 "answer": "시티도 체스트넛-월넛 근처면 앵간하면 치안은 좋은 것 같아요. 사우스 필리로 내려가거나 마켓을 넘어간다거나 하지 않으면요. PMA 근처 (로건 스퀘어 쪽)도 좋고요. 밤 늦게는 노숙자나 몰려다니는 친구들만 조심하면 좀 쫄려도 다닐 만하더라고요… 치안이 결국 건물 출입하고도 연관이 되는데, 아파트 문에서 컨시어지가 보이는 곳이면 괜찮을 것 같아요! 누가 따라 들어오거나 랜덤 피플이 아파트에 들어올 수가 없으니까요."
             }
         ],
-        "category": "general"
+        "category": "housing"
     },
     {
         "id": 1036,
@@ -18811,7 +18811,7 @@
                 "answer": "저흰 그 근처 스트릿파킹 해요."
             }
         ],
-        "category": "general"
+        "category": "car"
     },
     {
         "id": 1063,
@@ -19295,7 +19295,7 @@
                 "answer": "박스에 붙은 운송 티켓만 가져가면 될 것 같아요!"
             }
         ],
-        "category": "travel"
+        "category": "car"
     },
     {
         "id": 1087,
