@@ -359,8 +359,8 @@
         /* float: left; */
         width: 90%;
         position: relative;
-        padding-top: 1rem;
-        padding-bottom: 1rem;
+        padding-top: 0.8rem;
+        padding-bottom: 0.8rem;
         margin-left: auto;
         margin-right: auto;
         border-bottom: 1px solid #dde2e6;
@@ -395,8 +395,9 @@
         border: 1px solid lightblue;
       }
       .status-text {
-        line-height: 1rem;
-        margin-left: 4px;
+        line-height: 0.8rem;
+        font-size: 0.9rem;
+        margin-left: calc(-40%);
       }
       
     

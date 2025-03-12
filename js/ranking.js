@@ -54,7 +54,7 @@ const ranking = [
     { name: '한/필라', cnt: 115 },
     { name: 'AKGoLfLife/Philly', cnt: 115 },
     { name: '나홀로/northphilly', cnt: 115 },
-    { name: '천하무적/HuntingdonVally', cnt: 115 },
+    { name: '천하무적/Huntingdon', cnt: 115 },
     { name: '피치/필라델피아', cnt: 108 },
     { name: 'Banana/Philly', cnt: 108 },
     { name: 'J/Centercity', cnt: 108 },
