@@ -175,7 +175,8 @@
 .table-wr {
     /* border: 1px solid red; */
     width: 90%;
-    margin: 12px auto;
+    margin: 0 auto;
+    padding-bottom: 64px;
     max-width: 1200px;
 }
 
@@ -218,6 +219,11 @@
     color: #00619A;
 }
 
+.hl {
+    color: #ff5a00;
+    background-color: yellow;
+  }
+
 .answer-wr {
     display: none;
     margin-top: 12px;
@@ -239,24 +245,19 @@
     font-size: 17px;
 }
 
-
-/* .input-wr {
-    display: flex;
-    justify-content: space-around;
-    margin-left: auto;
-    margin-right: auto;
-    width: 900px;
+.no-data {
+    /* color: #ff5a00; */
+    font-size: 24px;
+    margin-left: 20%;
 }
 
-.inp {
-    font-size: 2rem;
-    margin-top: 6px;
-    margin-bottom: 13px;
-    text-align: right;
-    width: 260px;
-    padding: 8px;
-    border: 2px solid #e0e0e0;
-}   */
+.more-data {
+    margin-top: 32px;
+    font-size: 24px;
+    text-align: left;
+    margin-left: 5%;
+    cursor: pointer;    
+}
 
 .inp-key {
     width: 400px;
@@ -279,6 +280,7 @@
     align-items: center;
 
 }
+
 
 .switch {
     position: relative;
@@ -342,6 +344,23 @@
 }  
 
 @media only screen and (max-width: 540px) {
+
+    .toggle-text {
+        margin: 6px;
+        font-size: 21px;
+        margin-left: 8px;
+        color: #808080;
+      }
+    
+    .no-data {
+        font-size: 20px;
+    }
+    
+    .more-data {
+        margin-top: 32px;
+        font-size: 20px;
+    }
+
     .inp-key {
         width: 70%;
     }

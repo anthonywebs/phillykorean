@@ -2,8 +2,10 @@
 let DATA = [];
 let filteredData = [];
 let keyword = '';
+let category = '';
 let currInd = 0;
 let increase = 20;
+let showAnswers = false;
 
 const renderBanner = async () => {
   await initBanner(0);
@@ -93,26 +95,50 @@ const fetchData = async () => {
   .catch(error => console.error('Error loading JSON:', error));
 }
 
+const highlight = msg => {
+  if (keyword === '') return msg;
+
+  const ind = msg.toLowerCase().indexOf(keyword);
+  if (ind === -1) return msg;
+
+  const before = msg.slice(0, ind);
+  const highlight = msg.slice(ind, ind + keyword.length);
+  const after = msg.slice(ind + keyword.length);
+
+  return `${before}<span class="hl">${highlight}</span>${after}`;
+
+}
+
 const renderTable = () => {
   const table = getEl('js-table');
   const len = Math.min(filteredData.length, currInd + increase);
 
-
+  if (filteredData.length === 0) {
+    table.innerHTML = `
+          <div class='table-cell table-question'>
+            <span class='no-data'>* 검색 결과가 없습니다.</span>
+          </div>
+      `;
+    return;
+  }
 
   for (let i = currInd; i < len; i++) {
-    const { id, date, name, question, answers } = filteredData[i];
+    let { id, date, name, question, answers } = filteredData[i];
+
+    question = highlight(question);
+
     table.innerHTML += `
-        <div id="${id}" class='table-row'>
+        <div id="${id}" onclick='handleClickRow(this)' class='table-row'>
           <div class='table-bullet'>
             *
           </div>
           <div class='table-cell table-question'>
             ${question}
-            <div class='q-desc'>Date: <span class='blue'>${date}</span> &nbsp; Post by <span class='id'>${name}</span></div>
+            <div class='q-desc'>Date: <span class='blue'>${date}</span> &nbsp; Posted by <span class='id'>${name}</span></div>
             <div class='answer-wr'>
               ${
                 answers.map(answer => (`
-                      <div class='a-desc'><span class='blue'> &gt; &nbsp; </span><span class='id'>${answer.replier}</span>: ${answer.answer}</div>
+                      <div class='a-desc'><span class='blue'> &gt; &nbsp; </span><span class='id'>${answer.replier}</span> ${highlight(answer.answer)}</div>
                   `)
                 ).join('')
               }
@@ -121,32 +147,85 @@ const renderTable = () => {
         </div>
     `;
   };
+
+  console.log("AK: fi", filteredData.length, len)
+
+  if (filteredData.length > len) {
+    table.innerHTML += `
+          <div id='js-load-link'>
+            <div class='more-data blue' onclick='handleLoadNext()'> &gt;&gt; ${increase}개 더 보기</div>
+          </div>
+      `;
+  }
+
+  runToggle();
+
+
 }
 
 const runFilter = () => {
-  if (keyword !== '') {
-    filteredData = DATA.filter(message => {
-      return message.key.includes(keyword)
-    })
+  currInd = 0;
+  if (category !== '') {
+    filteredData = DATA.filter(message => message.category === category);
   } else {
     filteredData = [...DATA];
-    filteredData.sort((a, b) => Math.random() - 0.5);
   }
 
-  console.log("AK: cnt", filteredData.length)
+
+  if (keyword !== '') {
+    filteredData = filteredData.filter(message => {
+      return message.key.includes(keyword)
+    })
+  }
+
   getEl('js-table').innerHTML = '';
   renderTable();
 }
 
-const handleKeyword = e => {
-  keyword = e.value.toLowerCase();
-  console.log(e.value);
-  runFilter();
-  // VELOCITY = parseInt(e.value, 10);
-  // localStorage.setItem('VELOCITY', VELOCITY);
-  // fetchData();
+const handleLoadNext = () => {
+  getEl('js-load-link').remove();
+  currInd += increase;
+  renderTable();
+
 }
 
+const handleKeyword = e => {
+  keyword = e.value.toLowerCase();
+  if (keyword.length > 0) {
+    if (toggleSwitch.checked === false) {  // Only trigger if it's currently checked
+      toggleSwitch.checked = true;
+      toggleSwitch.dispatchEvent(new Event('change')); // Fire the change event
+    }
+  }
+  runFilter();
+}
+
+const handleCategory = e => {
+  category = e?.value ?? '';
+  runFilter();
+}
+
+const runToggle = () => {
+  const answerEls = document.querySelectorAll('.answer-wr');
+  for (let i = 0; i < answerEls.length; i++) {
+    answerEls[i].style.display = showAnswers ? 'block' : 'none';
+  }
+}
+
+const handleToggle = e => {
+  showAnswers = !showAnswers;
+  runToggle();
+}
+
+const handleClickRow = row => {
+  const answerWrapper = row.querySelector('.answer-wr'); 
+  if (answerWrapper) {
+    const currentDisplay = window.getComputedStyle(answerWrapper).display; // Get actual computed display value
+
+    // Toggle display based on computed style
+    answerWrapper.style.display = (currentDisplay === 'none') ? 'block' : 'none';
+  }
+}
 
 const main = async () => {
   await fetchData();
