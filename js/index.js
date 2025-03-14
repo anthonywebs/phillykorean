@@ -7,6 +7,46 @@ let currInd = 0;
 let increase = 20;
 let showAnswers = false;
 
+const ads = [
+  {
+    url: "https://www.hcmhomeservices.com/",
+    desc: "HVAC전문 (난방, 에어컨, 보일러) 및 집 리모델링"
+  },
+  {
+    url: "https://www.google.com/maps/place/Rock+%26+Symphony+Learning+Center/@40.2319445,-75.270661,16z/data=!3m1!4b1!4m6!3m5!1s0x89c6a3b3cd785d5b:0xc6fe3d01e87e976c!8m2!3d40.2319445!4d-75.2680861!16s%2Fg%2F11lfbcd9y4?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+    desc: "뮤직 레슨, 악기 세일/렌트 [North Wales]"
+  },
+  {
+    url: "https://towerpa.com/",
+    desc: "집수리, 리모델링, 플로어링, 페인트 [North Wales]"
+  },
+];
+
+const renderAds = () => {
+  const dt = new Date();
+  // dt.setHours(dt.getHours() + 4); // test
+  const hours = dt.getHours();
+  const len =  ads.length;
+
+  const left = hours % len;
+  let right = (left + 1) % len;
+
+  const adEl = getEl('js-ad');
+  adEl.innerHTML = `
+          <div class='ad-img-wr'>
+            <a target='_blank' href='${ads[left].url}'><img class='ad-img' src='./img/b${left}.jpg' />
+              <span class='ad-text'>${ads[left].desc}</span>
+            </a>
+          </div>
+          <div class='ad-img-wr'>
+            <a target='_blank' href='${ads[right].url}'><img class='ad-img' src='./img/b${right}.jpg' />
+              <span class='ad-text'>${ads[right].desc}</span>
+            </a>
+          </div>
+  `;
+
+}
+
 const renderBanner = async () => {
   await initBanner(0);
   getEl('js-main-img-1').classList.add('bw-opacity-trans');
@@ -109,7 +149,10 @@ const highlight = msg => {
 
 const renderTable = () => {
   const table = getEl('js-table');
-  const len = Math.min(filteredData.length, currInd + increase);
+  let len = Math.min(filteredData.length, currInd + increase);
+  if (keyword === '' && category === '' && currInd === 0) {
+    len = Math.min(10, len);
+  }
 
   if (filteredData.length === 0) {
     table.innerHTML = `
@@ -180,7 +223,11 @@ const runFilter = () => {
 
 const handleLoadNext = () => {
   getEl('js-load-link').remove();
-  currInd += increase;
+  if (keyword === '' && category === '' && currInd === 0) {
+    currInd += 10;
+  } else {
+    currInd += increase;
+  }
   renderTable();
 
 }
@@ -277,12 +324,12 @@ const main = async () => {
 
   renderBanner();
   renderTable();
+  renderAds();
   renderRanking();
 
   if (id !== '') {
     if (id !== 'qna') {
       keyword = decodeURIComponent(id).toLowerCase();
-      console.log("AK: key", keyword)
       if (keyword.length > 0) {
         getEl('js-keyword').value = keyword;
         if (toggleSwitch.checked === false) {  // Only trigger if it's currently checked

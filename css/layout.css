@@ -442,6 +442,42 @@
         margin-right: auto;
     }
       
+    .ad-wr {
+        display: flex;
+        justify-content: space-evenly;
+        border-top: 1px solid #86868b;
+        max-width: 900px;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .ad-title-wr {
+        padding-left: 1rem;
+        display: flex;
+        justify-content: start;
+        max-width: 900px;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .ad-title {
+        text-align: left;
+    }
+
+    .ad-img-wr {
+        width: 30%;
+        margin: 1rem 0 3rem;
+    }
+    
+    .ad-text {        
+        color:#1d1d1f !important;
+        word-break: keep-all;
+    }
+
+    .ad-img {
+        width: 100%;
+        border-radius: 15px;
+    }
     
 
       
@@ -452,6 +488,20 @@
 }  
 
 @media only screen and (max-width: 540px) {
+    .ad-title-wr {
+        width: 100%;
+    }
+
+    .ad-wr {
+        width: 100%;
+        border-top: 1px solid #86868b;
+    }
+
+    .ad-img-wr {
+        width: 43%;
+        margin: 1srem 0 3rem;
+    }
+
     .ranking_bg {
         width: 94%;
     }
