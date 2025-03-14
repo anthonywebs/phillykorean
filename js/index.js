@@ -267,7 +267,6 @@ const main = async () => {
   // startEventListener();
   const param = window.location.search.split(/=/);
   const id = param.length === 2 ? param[1] : '';
-  // if (loc !== conv(cn)) bd.innerHTML = '';
 
   if (!isMobile()) {
     getEl('js-main-img-1').src = './img/banner-bw.jpg';
@@ -280,10 +279,22 @@ const main = async () => {
   renderTable();
   renderRanking();
 
-  if (id === 'qna') {
-    setTimeout(() =>
-      handleScroll('js-content'), 100
-    )
+  if (id !== '') {
+    if (id !== 'qna') {
+      keyword = decodeURIComponent(id).toLowerCase();
+      console.log("AK: key", keyword)
+      if (keyword.length > 0) {
+        getEl('js-keyword').value = keyword;
+        if (toggleSwitch.checked === false) {  // Only trigger if it's currently checked
+          toggleSwitch.checked = true;
+          toggleSwitch.dispatchEvent(new Event('change')); // Fire the change event
+        }
+      }
+      runFilter();
+    }
+
+    setTimeout(() => handleScroll('js-content'), 100);
+
   }
 
 
