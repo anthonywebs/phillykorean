@@ -445,7 +445,7 @@
     .ad-wr {
         display: flex;
         justify-content: space-between;
-        border-top: 1px solid #86868b;
+        border-top: 1px solid #dde2e6;
         max-width: 1200px;
         width: 100%;
         margin: 0 auto;
@@ -496,7 +496,6 @@
     .ad-wr {
         width: 100%;
         justify-content: space-evenly;
-        border-top: 1px solid #86868b;
     }
 
     .ad-img-wr {
