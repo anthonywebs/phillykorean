@@ -444,19 +444,20 @@
       
     .ad-wr {
         display: flex;
-        justify-content: space-evenly;
+        justify-content: space-between;
         border-top: 1px solid #86868b;
-        max-width: 900px;
-        width: 90%;
+        max-width: 1200px;
+        width: 100%;
         margin: 0 auto;
+        flex-wrap: wrap;
     }
 
     .ad-title-wr {
         padding-left: 1rem;
         display: flex;
         justify-content: start;
-        max-width: 900px;
-        width: 90%;
+        max-width: 1200px;
+        width: 96%;
         margin: 0 auto;
     }
 
@@ -465,7 +466,7 @@
     }
 
     .ad-img-wr {
-        width: 30%;
+        width: 24%;
         margin: 1rem 0 3rem;
     }
     
@@ -494,12 +495,13 @@
 
     .ad-wr {
         width: 100%;
+        justify-content: space-evenly;
         border-top: 1px solid #86868b;
     }
 
     .ad-img-wr {
         width: 43%;
-        margin: 1srem 0 3rem;
+        margin: 1rem 0 0.5rem;
     }
 
     .ranking_bg {
