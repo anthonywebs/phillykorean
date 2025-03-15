@@ -1,4 +1,4 @@
-const ranking = [
+const ranking_old = [
     { name: '꿀벌/필리', cnt: 962 },
     { name: '또비/buckscounty', cnt: 586 },
     { name: '씽씽/NorthWales', cnt: 543 },

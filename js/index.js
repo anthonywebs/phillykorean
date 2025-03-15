@@ -6,6 +6,8 @@ let category = '';
 let currInd = 0;
 let increase = 20;
 let showAnswers = false;
+let ranking = [];
+
 
 const ads = [
   {
@@ -132,19 +134,20 @@ const fetchData = async () => {
       const updatedAnswers = answers.map(message => {
         key = key + message.answer;
         return {
-          ...message, replier: hideName(message.replier)
+          ...message, replier: hideName(message.replier), id: message.replier,
         };
       })
       key = key.toLowerCase();
       return {
-        ...message, key, name: hideName(name), answers: updatedAnswers,
+        ...message, key, name: hideName(name), answers: updatedAnswers, id: name,
       }
     });
 
-    DATA.sort((a, b) => b.id - a.id);
+    // DATA.sort((a, b) => b.id - a.id);
+    DATA.reverse();
 
     filteredData = [...DATA];
-    filteredData.sort((a, b) => Math.random() - 0.5);
+    // filteredData.sort((a, b) => Math.random() - 0.5);
   })
   .catch(error => console.error('Error loading JSON:', error));
 }
@@ -300,28 +303,56 @@ const handleClickRow = row => {
   }
 }
 
+const runRanking = () => {
+  const map = new Map();
+
+  for (let i = 0; i < DATA.length; i++) {
+    const { id, question, answers } = DATA[i];
+    map.set(id, (map.get(id) || 0) + question.length);
+    for (let j = 0; j < answers.length; j++) {
+      const { id, answer } = answers[j];
+      map.set(id, (map.get(id) || 0) + answer.length);
+    }
+  }
+
+  for (const [id, score] of map) {
+    ranking.push({
+      name: id,
+      cnt: score
+    })
+  }
+
+  ranking.sort((a, b) => b.cnt - a.cnt);
+  
+}
+
+
 const renderRanking = () => {
+  runRanking();
+  // ranking.sort((a, b) => a.name.localeCompare(b.name));
+  // console.log(ranking);
   const table = getEl('js-ranking');
-  ranking.forEach((row, rank) => {
-    const { name, cnt } = row;
+  const topScore = ranking[0].cnt;
+
+  for (let i = 0; i < 50; i++) {
+
+    const { name, cnt } = ranking[i];
     // const progress = parseInt(issue.donePoint / updatedTotalPoint * 100, 10);
-    const progress = parseInt(cnt/15,10) + 33;
+    const progress = parseInt(cnt/topScore * 100);
 
     const statusElem = `<div class='status' style='background: linear-gradient(to right, lightblue ${progress}%, transparent ${progress}%);'><span class='status-text'>${cnt}</span></div>`;
 
     table.innerHTML += `
         <div id='js-ul' class='al_center' aria-live='polite'>
             <div class='li_main'>
-              <div class='w w-ranking col-mid'>${rank + 1}</div>
+              <div class='w w-ranking col-mid'>${i + 1}</div>
               <div class='w w-name'>${name}</div>
               <div class='w w-score col-mid'>${statusElem}</div>
             </div>
           </div>
         </div>
     `;
-  })
-
-
+  }
 }
 
 const main = async () => {

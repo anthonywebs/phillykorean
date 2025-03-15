@@ -8926,19 +8926,6 @@
         "category": "general"
     },
     {
-        "id": 493,
-        "date": "Sep 29, 2023",
-        "name": "먹보/Philadelphia",
-        "question": "미국 호텔 하우스키핑 팁을 줘야 하나요? 보통 얼마 정도 주나요?",
-        "answers": [
-            {
-                "replier": "XXX/Philly",
-                "answer": "일반적으로 1박당 2~5달러 정도 남기는 것이 예의로 여겨집니다. 고급 호텔에서는 5~10달러까지도 가능합니다."
-            }
-        ],
-        "category": "travel"
-    },
-    {
         "id": 494,
         "date": "Sep 29, 2023",
         "name": "시럽/센터시티",
@@ -19460,8 +19447,8 @@
     {
         "id": 1095,
         "date": "Feb 4, 2025",
-        "name": "XXX/Philly",
-        "question": "레고/필리 필라델피아 도로 상태가 안 좋은가요?",
+        "name": "레고/필리",
+        "question": "필라델피아 도로 상태가 안 좋은가요?",
         "answers": [
             {
                 "replier": "나홀로/northphilly",
@@ -19822,7 +19809,7 @@
     {
         "id": 1113,
         "date": "Feb 8, 2025",
-        "name": "XXX/Philly",
+        "name": "오뎅/센터시티",
         "question": "필라델피아에서 산후조리사 추천해 주세요.",
         "answers": [
             {
@@ -19835,7 +19822,7 @@
     {
         "id": 1114,
         "date": "Feb 9, 2025",
-        "name": "XXX/Philly",
+        "name": "경례/뉴타운",
         "question": "뉴타운(Newtown) 지역 한인 커뮤니티는 어떤가요?",
         "answers": [
             {
@@ -19860,7 +19847,7 @@
     {
         "id": 1115,
         "date": "Feb 9, 2025",
-        "name": "XXX/Philly",
+        "name": "경례/뉴타운",
         "question": "뉴타운과 로워 모어랜드(Lower Moreland) 중 어느 지역이 더 좋을까요?",
         "answers": [
             {
@@ -19877,7 +19864,7 @@
     {
         "id": 1116,
         "date": "Feb 9, 2025",
-        "name": "XXX/Philly",
+        "name": "제이미/랜스데일",
         "question": "필라델피아에서 가구를 어디서 사면 좋을까요?",
         "answers": [
             {
@@ -19898,7 +19885,7 @@
     {
         "id": 1117,
         "date": "Feb 10, 2025",
-        "name": "XXX/Philly",
+        "name": "르륵/Delaware",
         "question": "미국에서 영양제를 저렴하게 구매하려면 어디가 좋을까요?",
         "answers": [
             {
@@ -19923,7 +19910,7 @@
     {
         "id": 1118,
         "date": "Feb 10, 2025",
-        "name": "XXX/Philly",
+        "name": "무지23/필리",
         "question": "발렌타인데이 선물로 아이들에게 무엇을 주면 좋을까요?",
         "answers": [
             {
@@ -19948,7 +19935,7 @@
     {
         "id": 1119,
         "date": "Feb 10, 2025",
-        "name": "XXX/Philly",
+        "name": "수수/체스터",
         "question": "한국에 단기간(한 달 이내) 방문할 때 핸드폰을 어떻게 사용하면 좋을까요?",
         "answers": [
             {
@@ -19973,7 +19960,7 @@
     {
         "id": 1120,
         "date": "Feb 10, 2025",
-        "name": "XXX/Philly",
+        "name": "프로도/upencity",
         "question": "고양이나 강아지의 광견병 항체 검사는 어떻게 진행되나요?",
         "answers": [
             {
@@ -19994,7 +19981,7 @@
     {
         "id": 1121,
         "date": "Feb 10, 2025",
-        "name": "XXX/Philly",
+        "name": "Sky/Newtown",
         "question": "필라델피아에서 양꼬치를 먹을 수 있는 곳이 있나요?",
         "answers": [
             {
@@ -20011,7 +19998,7 @@
     {
         "id": 1122,
         "date": "Feb 10, 2025",
-        "name": "XXX/Philly",
+        "name": "르륵/Delaware",
         "question": "필라델피아에서 ESL(영어 수업) 들을 곳 추천해 주세요.",
         "answers": [
             {
@@ -20036,7 +20023,7 @@
     {
         "id": 1123,
         "date": "Feb 11, 2025",
-        "name": "XXX/Philly",
+        "name": "태경/Philly",
         "question": "나이아가라 폭포 여행을 추천하시나요?",
         "answers": [
             {
@@ -20061,7 +20048,7 @@
     {
         "id": 1124,
         "date": "Feb 11, 2025",
-        "name": "XXX/Philly",
+        "name": "리/리튼하우스",
         "question": "필라델피아에서 자동차 및 주택 보험을 어디서 가입하면 좋을까요?",
         "answers": [
             {
@@ -20082,8 +20069,8 @@
     {
         "id": 1125,
         "date": "Feb 11, 2025",
-        "name": "XXX/Philly",
-        "question": "필라델피아에서 맛있는 쿠키를 먹을 수 있는 곳이 있나요?",
+        "name": "PHL/PennValley",
+        "question": "필라델피아에서 맛있는 쿠키를 먹을 수 있는 곳이 있나습니다.",
         "answers": [
             {
                 "replier": "PHL/PennValley",
@@ -20103,7 +20090,7 @@
     {
         "id": 1126,
         "date": "Feb 11, 2025",
-        "name": "XXX/Philly",
+        "name": "팝재즈/BrynMawr",
         "question": "필라델피아에서 가볼 만한 여행지나 당일치기 여행지 추천해 주세요.",
         "answers": [
             {
@@ -20124,7 +20111,7 @@
     {
         "id": 1127,
         "date": "Feb 12, 2025",
-        "name": "XXX/Philly",
+        "name": "BoxerM/Centercity",
         "question": "필라델피아에서 국밥을 먹을 수 있는 곳이 있나요?",
         "answers": [
             {
@@ -20145,7 +20132,7 @@
     {
         "id": 1128,
         "date": "Feb 12, 2025",
-        "name": "XXX/Philly",
+        "name": "J/Centercity",
         "question": "필라델피아에서 독감 증상이 오래 지속될 때 어떻게 해야 하나요?",
         "answers": [
             {
@@ -20170,7 +20157,7 @@
     {
         "id": 1129,
         "date": "Feb 13, 2025",
-        "name": "XXX/Philly",
+        "name": "Lily/필리예정",
         "question": "인천에서 필라델피아로 가는 가장 좋은 항공 경로는?",
         "answers": [
             {
@@ -20191,7 +20178,7 @@
     {
         "id": 1130,
         "date": "Feb 13, 2025",
-        "name": "XXX/Philly",
+        "name": "나홀로/northphilly",
         "question": "필라델피아에서 톨비를 확인할 수 있는 앱이 있나요?",
         "answers": [
             {
@@ -20216,13 +20203,9 @@
     {
         "id": 1131,
         "date": "Feb 13, 2025",
-        "name": "XXX/Philly",
+        "name": "천하무적/HuntingdonVally",
         "question": "필라델피아에서 뉴욕으로 그레이하운드 버스를 타고 가면 어디에서 내려야 하나요?",
         "answers": [
-            {
-                "replier": "천하무적/HuntingdonVally",
-                "answer": "뉴욕에 그레이하운드 버스를 타고 가려는데 어디에서 내려야 할까요?"
-            },
             {
                 "replier": "무개/horsham",
                 "answer": "포트 오쏘리티(Port Authority)와 미드타운(Midtown) 중 선택할 수 있어요."
@@ -20249,7 +20232,7 @@
     {
         "id": 1132,
         "date": "Feb 14, 2025",
-        "name": "XXX/Philly",
+        "name": "르륵/Delaware",
         "question": "블랙박스를 차량에 설치하는 것이 불법인가요?",
         "answers": [
             {
@@ -20274,13 +20257,9 @@
     {
         "id": 1133,
         "date": "Feb 15, 2025",
-        "name": "XXX/Philly",
-        "question": "웨스턴유니언을 통해 송금받는 방법이 궁금합니다.",
+        "name": "김갑환/UNIVERSITYCITY",
+        "question": "웨스턴유니언으로 송금을 받으려면 주유소나 마트에서 어떻게 받는 건가요?",
         "answers": [
-            {
-                "replier": "김갑환/UNIVERSITYCITY",
-                "answer": "웨스턴유니언으로 송금을 받으려면 주유소나 마트에서 어떻게 받는 건가요?"
-            },
             {
                 "replier": "🍏/몽고메리",
                 "answer": "전화기를 이용해 고유 코드를 받고, 그 번호를 송금받을 사람에게 알려주면 됩니다. 받는 사람의 이름과 전화번호가 정확해야 해요."
@@ -20295,7 +20274,7 @@
     {
         "id": 1135,
         "date": "Feb 16, 2025",
-        "name": "XXX/Philly",
+        "name": "라오/델라웨어",
         "question": "필라델피아에서 헬스장 정보를 공유할 수 있는 커뮤니티가 있나요?",
         "answers": [
             {
@@ -20312,7 +20291,7 @@
     {
         "id": 1136,
         "date": "Feb 17, 2025",
-        "name": "XXX/Philly",
+        "name": "필라피플/엠블러",
         "question": "필라델피아에서 인터넷 요금이 얼마나 하나요?",
         "answers": [
             {
@@ -20333,7 +20312,7 @@
     {
         "id": 1137,
         "date": "Feb 17, 2025",
-        "name": "XXX/Philly",
+        "name": "마음따라/필리조선소",
         "question": "필라델피아에서 한식 국을 사거나 중고 주방 용품을 구할 수 있는 곳이 있나요?",
         "answers": [
             {
@@ -20354,7 +20333,7 @@
     {
         "id": 1138,
         "date": "Feb 17, 2025",
-        "name": "XXX/Philly",
+        "name": "르륵/Delaware",
         "question": "필라델피아에서 자동차 보험료가 비싼데, 저렴한 옵션이 있을까요?",
         "answers": [
             {
@@ -20379,7 +20358,7 @@
     {
         "id": 1139,
         "date": "Feb 17, 2025",
-        "name": "XXX/Philly",
+        "name": "천하무적/HuntingdonVally",
         "question": "필라델피아에서 여름캠프 추천해 주세요.",
         "answers": [
             {
@@ -20404,7 +20383,7 @@
     {
         "id": 1140,
         "date": "Feb 18, 2025",
-        "name": "XXX/Philly",
+        "name": "써니/센터시티",
         "question": "미국에서 한국으로 송금하는 방법과 수수료가 궁금합니다.",
         "answers": [
             {
@@ -20437,7 +20416,7 @@
     {
         "id": 1141,
         "date": "Feb 18, 2025",
-        "name": "XXX/Philly",
+        "name": "팝재즈/BrynMawr",
         "question": "필라델피아에서 고기 구이 맛집 추천해 주세요.",
         "answers": [
             {
@@ -20466,13 +20445,9 @@
     {
         "id": 1142,
         "date": "Feb 8, 2025",
-        "name": "XXX/Philly",
+        "name": "조이/willowgrove",
         "question": "필라델피아에서 우동 맛집이 있나요?",
         "answers": [
-            {
-                "replier": "조이/willowgrove",
-                "answer": "필라델피아에서 맛있는 우동집 아시나요?"
-            },
             {
                 "replier": "MJ/시티",
                 "answer": "뉴욕의 Raku는 맛있어요! 하지만 필라델피아에서는 아직 좋은 우동집을 찾지 못했어요."
@@ -20483,7 +20458,7 @@
     {
         "id": 1143,
         "date": "Feb 19, 2025",
-        "name": "XXX/Philly",
+        "name": "뮤지/Philly",
         "question": "필라델피아에서 사우나를 이용할 수 있는 곳이 있나요?",
         "answers": [
             {
@@ -20508,13 +20483,9 @@
     {
         "id": 1144,
         "date": "Feb 19, 2025",
-        "name": "XXX/Philly",
-        "question": "BYOB 식당에서 술을 어떻게 마셔야 하나요?",
+        "name": "눈누/유니버시티시티",
+        "question": "BYOB 식당에서 술을 어떻게 마셔야 하나요? 술을 그냥 가져가서 마시면 되나요? 아니면 서버한테 말해야 하나요?",
         "answers": [
-            {
-                "replier": "눈누/유니버시티시티",
-                "answer": "BYOB 식당에 가면 술을 그냥 가져가서 마시면 되나요? 아니면 서버한테 말해야 하나요?"
-            },
             {
                 "replier": "홍홍/블루벨",
                 "answer": "그냥 마시면 되고, 잔이 필요하면 요청하면 됩니다."
@@ -20872,5 +20843,974 @@
             }
         ],
         "category": "restaurant"
+    },
+    {
+        "answers": [
+            {
+                "answer": "스트릿 파킹요? 점심땐 경쟁치열 하죠. 몇바퀴 돌면 전 항상 있더라고요. 아님 공용주차장? 12번가 13번가쪽. 넘 멀면 사설 주차장이요.",
+                "replier": "해피데이/윈우드"
+            },
+            {
+                "answer": "차라리 파킹장 예약하시고 가시죠 히어로 스팟 추천드립니다.",
+                "replier": "아쿠아맨/렌스데일"
+            },
+            {
+                "answer": "저는 센터시티에서 두세시간 미만이면 스트릿 미러파킹을 사용합니다. ParkMobile로 최대시간으로 지불하고 그 중간에 종료시키면 남은시간만큼 차감되어서 계산되더라구요.",
+                "replier": "Anthony/Conshy"
+            }
+        ],
+        "category": "car",
+        "date": "Feb 26, 2025",
+        "name": "미미/필리",
+        "question": "시티가려고 하는데 레스토랑위크면 혹시 평일 점심에 주차자리 찾기 힘들까요??"
+    },
+    {
+        "answers": [
+            {
+                "answer": "오 낚시에 관심이 없어서 몰랐어요 정보 감사드려요.",
+                "replier": "네온/랜스데일"
+            },
+            {
+                "answer": "낚시대나 개잡이 용품은 월마트서 싸게 구입할 수 있어요. 아이들이랑 가면 정말 잼있어요.",
+                "replier": "PhillyLover/Media"
+            }
+        ],
+        "category": "travel",
+        "date": "Feb 26, 2025",
+        "name": "PhillyLover/Media",
+        "question": "뉴저지 주는 소소하게 하는 Recreational 바다낚시 라이센스가 무료에요. 홈페이지에서 등록만하면됩니다. 날 좋아지면 가족들이랑 바닷가에 블루크랩이나 간단한 낚시 하러가시면 재미있을거에요."
+    },
+    {
+        "answers": [
+            {
+                "answer": "안디옥 평이 참 좋더라구요.",
+                "replier": "당근/lowermerion"
+            },
+            {
+                "answer": "저희 아이 안디옥 가요! 굉장히 체계적이고 선생님들도 오래 계신 분들이셔서 좋은것 같아요. 저희 아이는 지금 졸업반인데 미국 공교육을 미리 그대로 하는것 같더라고요. 아무래도 아이들이 대부분 한국말이 편한 아이들이라 그런지 미리 준비시키시는것 같았어요. 한가지 단점은 웨이팅이 말도못하게 길다고 들었어요… ㅠㅠ",
+                "replier": "홍홍/블루벨"
+            },
+            {
+                "answer": "교회안다녀도 상관없어요!ㅎㅎㅎ 그리고 교회다녀도 꼭 그 데케 교회 아니어도 괜찮구요 ^^ 단점은 모두 말씀하신것처럼 웨이팅이.. ㅜ",
+                "replier": "테이러/브린모어"
+            },
+            {
+                "answer": "양의문은 밥 싸가지고 다녀야하고 데펴주거나 그러지도 않는다고 들었던거같아요!",
+                "replier": "가을/센터시티"
+            }
+        ],
+        "category": "general",
+        "date": "Feb 26, 2025",
+        "name": "업삐/필리",
+        "question": "여기서 한인 유치원 보내시는 분들 있으신가요? 세군데 정도 있는거 같은데 후기가 어떤지 궁금합니다."
+    },
+    {
+        "answers": [
+            {
+                "answer": "Seger Dog Park (215) 686-1780 또는 하이킹이요.",
+                "replier": "고고/도일리스타운"
+            },
+            {
+                "answer": "갠적으로는 한여름 틱 많아지기전에 공원 같이 산책 하는거 좋을것같아요. Path 그냥 5마일정도 계속 걸어주고 낙아웃시키기 ㅋㅋㅋㅋㅋ 도그파크는 언제라도 다닐수 있으니까요.",
+                "replier": "고고/도일리스타운"
+            },
+            {
+                "answer": "전 비치가서 공던지면서 수영시키는거 그걸 젤 재밌어하는것같았어요.",
+                "replier": "고고/도일리스타운"
+            }
+        ],
+        "category": "general",
+        "date": "Feb 26, 2025",
+        "name": "가을/센터시티",
+        "question": "뜬금없지만 혹시 멍뭉이랑 놀러가기좋은곳 있으면 공유부탁드립니당~~~"
+    },
+    {
+        "answers": [
+            {
+                "answer": "무거운거 시키면 좀 많이 줘요.",
+                "replier": "고고/도일리스타운"
+            },
+            {
+                "answer": "넹 예상 배송일에 잘 오더라구용!",
+                "replier": "블럭을/센터시티"
+            },
+            {
+                "answer": "사실 쌀같은거 시키면 좀 많이 드려야져.",
+                "replier": "고고/도일리스타운"
+            },
+            {
+                "answer": "위 오챗방에서 보면 3불 정도 준다는 분들이 많았어요.",
+                "replier": "홉/Philly"
+            }
+        ],
+        "category": "general",
+        "date": "Feb 26, 2025",
+        "name": "럽유/필리",
+        "question": "혹시 weee앱 쓰시는 분중에 결제할때 배송기사 팁 선택란이 있던데 어떻게들 하시나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "오 여기 ㅎㅎ 저 필라와서 제일 처음 먹었던 곳이였는데 맛있어요.",
+                "replier": "국밥/렌즈데일"
+            },
+            {
+                "answer": "저도 밍스 몇 번 갔는데, 밍스 요리는 그럭저럭 먹을만 했는데 짬뽕 짜장은 정말 아닌 거 같다고 생각했어요..저는 실망한 편이라 차라리 Hmart 안에 있는 곳이 더 낫더라구요.",
+                "replier": "도찌/뉴타운"
+            },
+            {
+                "answer": "진짜 맛은 주관적인것 같네요. 전 밍스 짬뽕이 조미료 맛도 덜한것 같고 맛있던데…",
+                "replier": "네오/랜스데일"
+            },
+            {
+                "answer": "언제 기회되시면 맛탕 꼭 먹어봐주세용.. 그리고 맛탕 먹으신 분들 후기도 부탁 드립니다.",
+                "replier": "Nat/NW"
+            }
+        ],
+        "category": "restaurant",
+        "date": "Feb 26, 2025",
+        "name": "Nat/NW",
+        "question": "최근에 알게된 음식점입니다. Ming's Restaurant (121 S York Rd, Hatboro, PA 19040)"
+    },
+    {
+        "answers": [
+            {
+                "answer": "센터시티쪽은 아이들 대상이 많고요. 시간 되심 제가 올린곳 트라이 해보세요. 여긴 어른위주예요. 저도 도자기 수업 들었는데 좋았어요.",
+                "replier": "해피데이/윈우드"
+            },
+            {
+                "answer": "West Chester 에도 좋은 미술 수업 하는 곳이 있어요. https://www.chestercountyarts.org",
+                "replier": "솔바람/필리"
+            }
+        ],
+        "category": "general",
+        "date": "Feb 27, 2025",
+        "name": "Joyce/필리뮤지엄",
+        "question": "어른들 아트 클라스 아시나요? 아티스트아니고 그냥 취미로 하고 싶은 사람 대상으로. 센터시티쪽이요."
+    },
+    {
+        "answers": [
+            {
+                "answer": "대한곱창 괜찮던데요.",
+                "replier": "유저/필라"
+            },
+            {
+                "answer": "아니면 오발탄.",
+                "replier": "유저/필라"
+            },
+            {
+                "answer": "뉴저지 곱창이야기는 지금 닫았어요 ㅜㅜ 대한 곱창이요.",
+                "replier": "주주/프린스턴"
+            },
+            {
+                "answer": "오발탄 조개구이도 하던데 맛있나요?",
+                "replier": "아쿠아맨/렌스데일"
+            },
+            {
+                "answer": "네 맛있어요!",
+                "replier": "주주/프린스턴"
+            },
+            {
+                "answer": "한국하고 스타일은 좀 다르지만 괜찮게 먹을만해요.",
+                "replier": "리오.블루벨"
+            },
+            {
+                "answer": "신기하네요.",
+                "replier": "Nat/NW"
+            },
+            {
+                "answer": "당연히 비싸요 ㅋㅋㅋ.",
+                "replier": "리오.블루벨"
+            }
+        ],
+        "category": "restaurant",
+        "date": "Feb 27, 2025",
+        "name": "아쿠아맨/렌스데일",
+        "question": "안녕하세요 뉴저지쪽에 곱창집 갈라고 하는데 어디가 맛있나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "KOP 부근 테니스 클래스들이 있습니다~ https://www.gulphmillstennis.com/junior-clinics",
+                "replier": "궁시렁/필리"
+            },
+            {
+                "answer": "저도 줄리안 크린스키 올릴려고 했는데 방장님이 딱 올리셨네요.",
+                "replier": "해피데이/윈우드"
+            },
+            {
+                "answer": "네~ 정확하세요. 테니스가 가격이 쎄요. 저희 아인 한 5년 쳤어요. 추천합니다!",
+                "replier": "해피데이/윈우드"
+            }
+        ],
+        "category": "general",
+        "date": "Feb 27, 2025",
+        "name": "팔리/미디어",
+        "question": "혹시 미들친구들이 배울건데 테니스 배울만한곳 추천해주실수 있나요? 아무리 찾아봐도 잘 모르겠네요 ㅠㅠ"
+    },
+    {
+        "answers": [
+            {
+                "answer": "가격면에선 마트에서 물 사서 먹기가 젤 돈 적게 드는데 귀찮고 쓰레기 많이 나옵니다.",
+                "replier": "해피데이/윈우드"
+            },
+            {
+                "answer": "코스트코에서 매번 물 사먹고 브리타로 요리할때 물 쓰고요. 결국 정수기 설치했어요.",
+                "replier": "럽유/필리"
+            },
+            {
+                "answer": "되도록 정수기 물 드세요. Bottled water는 microplastic이 나온다는 연구결과가 있습니다.",
+                "replier": "Anthony/Conshy"
+            }
+        ],
+        "category": "general",
+        "date": "Feb 28, 2025",
+        "name": "Bobi/센터시티",
+        "question": "정수기 설치 vs 정수기 큰 물통 정기주문 vs 마트갈때마다 물 사서 먹기 어느걸 추천하시나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "살기는 않괜찮아요.",
+                "replier": "고고/도일리스타운"
+            },
+            {
+                "answer": "체리힐 쪽은 안전하고 괜찮아요.",
+                "replier": "블루/필리"
+            },
+            {
+                "answer": "Mount Laurel 쪽도 추천합니다. 안전하고 한인마트, Whole Foods, Trader Joe’s 다 가까워요.",
+                "replier": "만두/NJ"
+            }
+        ],
+        "category": "housing",
+        "date": "Feb 28, 2025",
+        "name": "옥수수빵",
+        "question": "뎁포드 몰 근처에 2-3주 정도 있을 것 같은데 이쪽 살기 괜찮나요?? 애들과 지내기 안전한지.."
+    },
+    {
+        "answers": [
+            {
+                "answer": "Amtrak 기차 타고 와요! Newark Penn 스테이션에서 기차 타면 밤늦게도 올 수 있어요.",
+                "replier": "수수/센터시티"
+            },
+            {
+                "answer": "저는 몰라서 그냥 우버 타고 왔어요. 비용이 꽤 들었어요.",
+                "replier": "블럭을/센터시티"
+            },
+            {
+                "answer": "기차가 비교불가로 가성비 좋습니다!",
+                "replier": "수수/센터시티"
+            }
+        ],
+        "category": "travel",
+        "date": "Feb 28, 2025",
+        "name": "나무지킴이/필라델피아",
+        "question": "혹시 에어프레미아타고 뉴왁에 밤늦게 도착하는데 필리 시내로 들어올때 다들 뭐 타고 오시나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "초심을 잃고 머리 쓰면 고객은 바로 알아차리거늘. ㅉㅉ",
+                "replier": "버블티/필라"
+            },
+            {
+                "answer": "저번에 H마트 갔는데 아침 일찍 어촌횟집 유니폼 입고 거기서 야채 구매하는 걸 봤어요...",
+                "replier": "고고/도일리스타운"
+            },
+            {
+                "answer": "어촌횟집은 어때요?",
+                "replier": "국밥/렌즈데일"
+            },
+            {
+                "answer": "필라에서는 천상천하 유아독존이죠 ㅋㅋㅋ",
+                "replier": "리오.블루벨"
+            }
+        ],
+        "category": "restaurant",
+        "date": "Feb 28, 2025",
+        "name": "리오.블루벨",
+        "question": "오랜만에 제주도 횟집 왔다가 맘 상해서 당분간은 안 갈듯하네요."
+    },
+    {
+        "answers": [
+            {
+                "answer": "여기 크리스마스 시즌에 갔었는데. 완전 추천해요!",
+                "replier": "국밥/렌즈데일"
+            },
+            {
+                "answer": "저는 여기 자주 갑니당~~~ 강추해욤",
+                "replier": "고고/도일리스타운"
+            },
+            {
+                "answer": "입장료는 따로 없어요 ㅋ 근처 주차도 무료입니다.",
+                "replier": "PhillyLover/Media"
+            }
+        ],
+        "category": "travel",
+        "date": "Feb 28, 2025",
+        "name": "PhillyLover/Media",
+        "question": "Peddler's Village라는 작은 마을이 있습니다. 미국적인 감성을 느낄 수 있어요. 데이트하기 너무 좋은 곳이에요."
+    },
+    {
+        "answers": [
+            {
+                "answer": "오래전 일이긴한데 저는 안되는 걸로 알고 있어요. 한국에서 출발해야 가입 가능했어요.",
+                "replier": "고고/도일리스타운"
+            }
+        ],
+        "category": "travel",
+        "date": "Feb 28, 2025",
+        "name": "도토리/센터시티",
+        "question": "유럽여행 예정인데요. 미국 출발이어도 한국회사(삼성,현대 등) 여행자보험 가입 가능한지요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "전시관에서 나와서 나비체험관 있어요. 여긴 줄만 40-50분 서 있었는데 정말 좋아요. 아이랑 가시면 강추!",
+                "replier": "해피데이/윈우드"
+            },
+            {
+                "answer": "맞아요.. 팬케잌 먹고 가면 나비가 따라다녀요 ㅎㅎ",
+                "replier": "Anthony/Conshy"
+            },
+            {
+                "answer": "주차료 1시간에 18불. 나비 체험관 추가로 5불입니다. 꿀 묻힌 면봉 주더라고요.",
+                "replier": "해피데이/윈우드"
+            },
+            {
+                "answer": "평일은 일해야 해서 못 가서 내일 갈까 생각 중인데 내일도 많겠죠? 아침 10시에 가도 많을까요?",
+                "replier": "네온/랜스데일"
+            },
+            {
+                "answer": "젤 붐비는 곳이 나비체험관이고요. 12시부터 2:30분까지 하거든요. 거길 빨리 보면 괜찮을 거예요. 10시에 딱 도착해서 보시면 괜찮아요.",
+                "replier": "해피데이/윈우드"
+            }
+        ],
+        "category": "travel",
+        "date": "Mar 1, 2025",
+        "name": "Anthony/Conshy",
+        "question": "오늘 플라워쇼 가려고 했는데 급한 일이 생겨서 못 갔네요."
+    },
+    {
+        "answers": [
+            {
+                "answer": "어른들은 주중 40불, 5-17세 아이들은 20불이네요~ 주말에는 5-10불 더 비싼 거 같네요 😊",
+                "replier": "궁시렁/필리"
+            }
+        ],
+        "category": "travel",
+        "date": "Mar 1, 2025",
+        "name": "나른/필리",
+        "question": "플라워쇼 입장료는 얼마인가요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "근처 타이어 샵 가는 게 좋습니다. 타이어 수리비용은 거기서거기에요.",
+                "replier": "소소/야들리"
+            },
+            {
+                "answer": "Tires Etc (215) 361-3616 저 다른 덴 잘 모르겠고 여기는 비추합니다.",
+                "replier": "홍홍/블루벨"
+            },
+            {
+                "answer": "타이어 전문점 가면 교체 쪽으로 유도하는 경우도 있어요. 가끔 공기 주입구 벨브에서 새는 경우도 있고요.",
+                "replier": "PhillyLover/Media"
+            },
+            {
+                "answer": "코스트코 멤버십 있으시면 고치는 것도 가능해요.",
+                "replier": "주주/프린스턴"
+            }
+        ],
+        "category": "car",
+        "date": "Mar 2, 2025",
+        "name": "가을/센터시티",
+        "question": "외관상 이상도 없고 이벤트도 없는데 한쪽 타이어 공기압이 빠져서요 ㅠㅠ 풀로 채웠는데도 자고 일어나니 공기압이 (-6) 많이 빠져있네요! 간단하게 땜빵이나 검사받을 수 있는 곳 있나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "파는 걸로 알아요.",
+                "replier": "AKGoLfLife/Philly"
+            },
+            {
+                "answer": "저 갔었을 때는 있었어요.",
+                "replier": "국밥/렌즈데일"
+            },
+            {
+                "answer": "팔아요!",
+                "replier": "토마토/다운타운"
+            }
+        ],
+        "category": "restaurant",
+        "date": "Mar 2, 2025",
+        "name": "영치기영차/센터시티",
+        "question": "혹시, Front St. H마트에 항정살 파나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "제니스?",
+                "replier": "당근/lowermerion"
+            },
+            {
+                "answer": "The Franklin Fountain 추천드립니다.",
+                "replier": "해피데이/윈우드"
+            },
+            {
+                "answer": "Fishtown에도 맛있는 아이스크림집 있어요. 꽤 특이한 맛도 많아요! 예를 들면 베이컨이 들어간 아이스크림도 있고요.",
+                "replier": "수수/센터시티"
+            }
+        ],
+        "category": "restaurant",
+        "date": "Mar 2, 2025",
+        "name": "NY/ucity",
+        "question": "다운타운에 유명한 아이스크림 가게가 있을까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "가격은 어느 정도인가요?",
+                "replier": "Apeach/Bluebell"
+            },
+            {
+                "answer": "아마존에서 구매했어요! 설치도 엄청 간편했어요. 가격은 450불 정도였어요!",
+                "replier": "Tube/brynmawr"
+            },
+            {
+                "answer": "필터는 얼마 정도 했나요? 자주 갈아야 하나요?",
+                "replier": "수수/센터시티"
+            },
+            {
+                "answer": "필터 6개월마다 교체해줘야 돼요!",
+                "replier": "Tube/brynmawr"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 2, 2025",
+        "name": "Tube/brynmawr",
+        "question": "저번에 정수기 얘기 나와서 역삼투압 필터 정수기 추천받고 구매했습니다! 후기 알려달라 그러셔서 남겨봅니당"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Wharton State Forest (609) 561-0024 https://g.co/kgs/6U6vhS8",
+                "replier": "홍홍/블루벨"
+            },
+            {
+                "answer": "가격은 어느 정도인가요?",
+                "replier": "Apeach/Bluebell"
+            }
+        ],
+        "category": "travel",
+        "date": "Mar 2, 2025",
+        "name": "홍홍/블루벨",
+        "question": "지난번에 해피데이님이 추천해주신 뉴저지 월튼파크 오프로드 다녀왔습니다! 픽업에 오프로드용 타이어 단 남편 덕에 재밌는 경험했네요 ㅎㅎㅎ 보니까 여기 ATV도 타는 곳이 있는 것 같아요."
+    },
+    {
+        "answers": [
+            {
+                "answer": "리포트를 해 놓는 게 순서이긴 한데, 이런 일은 너무 많아요. 카메라에 찍혀도 안 잡더라고요.",
+                "replier": "고고/도일리스타운"
+            },
+            {
+                "answer": "게라지도 열고 훔쳐 가는데요. 차 트렁크쯤이야…",
+                "replier": "고고/도일리스타운"
+            }
+        ],
+        "category": "car",
+        "date": "Mar 3, 2025",
+        "name": "필리/노스웨일즈",
+        "question": "안녕하세요, 도움받을 곳이 없어 여쭤봅니다...혹시 차 트렁크에서 도난을 당할 수도 있을까요? 유리 깨진 곳 하나 없이 정말 비싼 물건 하나만 훔쳐갔고, 차 트렁크에 있던 물 한 박스도 없어졌는데 이게 가능한 건가요?? push to start 차량은 아니에요....폴리스 리포트를 먼저 해야 할까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "한국어로 시험 보시고 통역은 거기 계시는 분을 붙여줬었어요.",
+                "replier": "쇼핑홀릭/드레셔"
+            },
+            {
+                "answer": "너무너무 감사합니다! 혹시 따로 미리 신청 안 해도 통역하시는 분을 붙여주시나요?",
+                "replier": "블럭을/센터시티"
+            },
+            {
+                "answer": "신청을 해서 준비해줬던 거 같아요. 인터뷰 심사하시는 분 따라 들어갈 때 통역 자식이 해도 되는지 물어보니 준비돼 있다고 했던 기억이 있는 걸로 봐선...",
+                "replier": "쇼핑홀릭/드레셔"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 3, 2025",
+        "name": "블럭을/센터시티",
+        "question": "혹시 20년 이상 미국에서 거주하신 65세 이상 시니어분 시민권 시험 볼 때 한국어로 시험 볼 수 있는지 아시는 분 있으실까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "피츠버그면 6시간 거리라 ㄷㄷ MEETUP이라는 앱 깔고 거기서 로컬에 soccer로 검색해보세요.",
+                "replier": "PhillyLover/Media"
+            },
+            {
+                "answer": "안녕하세요?? 찾아보니까 피츠버그 축구 동호회가 있는 거 같은데요.. 감독분은 남기택 (412-512-6443), 총무 김진성 (412-607-2416). 출처: 피츠버그 한인회 http://www.pittkor.org/xe/page_Jzdi12",
+                "replier": "궁시렁/필리"
+            }
+        ],
+        "category": "travel",
+        "date": "Mar 6, 2025",
+        "name": "A10/피츠버그",
+        "question": "안녕하세요! 혹시 피츠버그엔 한인 축구팀이 있을까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "손으로 빨래합니다. 안 쓰는 칫솔과 비누나 치약 짜서 해보세요.",
+                "replier": "아쿠아맨/렌스데일"
+            },
+            {
+                "answer": "세탁기는 쓰지 마세요. 안에 드럼 나갑니다. 그럼 새로 사야 되고요.",
+                "replier": "아쿠아맨/렌스데일"
+            },
+            {
+                "answer": "https://youtu.be/O_QVwpBe2IM?si=-Lut_6mAcfpzkvmv",
+                "replier": "네온/랜스데일"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 6, 2025",
+        "name": "허니버터아몬드/센터시티",
+        "question": "미국에서 운동화 세탁은 다들 어떻게 하시나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Contact Info: 정희경( 피아노 조율)",
+                "replier": "Rainy/Brynmawr"
+            },
+            {
+                "answer": "Contact Info: 신수철 선생님(피아노 조율)",
+                "replier": "우드워커/Glenside"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 6, 2025",
+        "name": "팔리/미디어",
+        "question": "안녕하세요 혹시 피아노 조율하는 곳 추천해 주실 수 있나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Weee에서 주문하시면 될 것 같아요.",
+                "replier": "고고/도일리스타운"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 7, 2025",
+        "name": "튜튜/노쓰필라",
+        "question": "질문 있습니다. 혹시 한인마트 배달에 냄비류도 가능할까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "여기는 시티쪽에 있는 무료 플레이그라운드도 있어서 들러도 좋아요.",
+                "replier": "PhillyLover/Media"
+            },
+            {
+                "answer": "애들 놀이터 엄청 큰데 추천합니다. https://maps.app.goo.gl/L86gWy4wxkeuEBxx7?g_st=ac",
+                "replier": "PhillyLover/Media"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 7, 2025",
+        "name": "홍홍/블루벨",
+        "question": "매달 첫째 주 일요일 필라 미술박물관 입장료 따로 없고 도네이션하고 들어갈 수 있는 걸로 알아요."
+    },
+    {
+        "answers": [
+            {
+                "answer": "필라델피아 임마누엘교회 추천이요!",
+                "replier": "효효/이주예정"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 7, 2025",
+        "name": "튜튜/노쓰필라",
+        "question": "혹 템플대 근교 한인교회 추천해 주실 수 있을까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "월마트에서 아무거나 세트 사시면 돼요.",
+                "replier": "PhillyLover/Media"
+            },
+            {
+                "answer": "뉴저지는 Recreational 바다낚시 라이센스가 무료예요. 여기서 등록하시면 됩니다: https://dep.nj.gov/njfw/fishing/marine/saltwater-registry/",
+                "replier": "PhillyLover/Media"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 7, 2025",
+        "name": "팝재즈/BrynMawr",
+        "question": "낚시 초보인데 어떤 장비를 사야 할까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "저는 TaskRabbit 써봤는데 만족했어요. 피아노 옮기는 분들도 쉽게 찾을 거예요. https://www.taskrabbit.com/",
+                "replier": "Anthony/Conshy"
+            },
+            {
+                "answer": "Duffy Piano Movers 추천합니다. https://yelp.to/ZkRMyPzKSR",
+                "replier": "당근/lowermerion"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 7, 2025",
+        "name": "호호/Lansdale",
+        "question": "피아노 무빙 하시는 분 있을까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "11-11:30 AM 예상됩니다.",
+                "replier": "델라/델라웨어"
+            },
+            {
+                "answer": "저는 2주 전에 10:30 AM에 픽업했습니다. 비행기는 만석이었어요.",
+                "replier": "Anthony/Conshy"
+            }
+        ],
+        "category": "travel",
+        "date": "Mar 8, 2025",
+        "name": "붕붕/센터시티",
+        "question": "JFK 터미널 1 대한항공 10시 도착 후 터미널 1 입구까지 몇 시쯤 나올까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Soko Bag Korean Fried Chicken 추천합니다. 사장님이 친절하시고 분위기도 좋아요. (855) 765-6224",
+                "replier": "홍홍/블루벨"
+            }
+        ],
+        "category": "restaurant",
+        "date": "Mar 8, 2025",
+        "name": "홍홍/블루벨",
+        "question": "피닉스빌 근처 맛있는 한국식 프라이드 치킨집이 있나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Talk to Me in Korean 추천해요. 아마존에서 교재도 팔고 강의도 들을 수 있어요.",
+                "replier": "여우/델라웨어"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 8, 2025",
+        "name": "NY/ucity",
+        "question": "미국 친구가 한국어 배우고 싶어하는데 유튜브 채널이나 교재 추천해 주실 수 있나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "없어요.",
+                "replier": "핑구/필리"
+            },
+            {
+                "answer": "일요일에는 일부 길가 주차 무료입니다. 12-13가 & Locust Street Parking ID# 916432 등 참고하세요.",
+                "replier": "궁시렁/필리"
+            }
+        ],
+        "category": "car",
+        "date": "Mar 8, 2025",
+        "name": "델라/델라웨어",
+        "question": "플라워쇼 가서 무료주차 가능한가요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "maman 유명하죠 아드모어에",
+                "replier": "유자/필리"
+            },
+            {
+                "answer": "White dog, Tuscany cafe, Nudy's 추천합니다.",
+                "replier": "테이러/브린모어"
+            },
+            {
+                "answer": "Sabrina’s cafe 도 인기가 많아요.",
+                "replier": "나른/필리"
+            },
+            {
+                "answer": "Tuscany cafe 추천합니다! 진짜 맛있어요!",
+                "replier": "테이러/브린모어"
+            },
+            {
+                "answer": "오 이런곳도 있었군요! 추천 메뉴 있을까요?",
+                "replier": "주주/하버타운"
+            },
+            {
+                "answer": "터스카니카페 샌드위치 정말 맛있어요!",
+                "replier": "Mayu/Narberth"
+            },
+            {
+                "answer": "Fishtown에 있는 Green Eggs Cafe 추천합니다!",
+                "replier": "핑구/필리"
+            },
+            {
+                "answer": "팬케이크 종류가 정말 맛있어요!",
+                "replier": "만두/NJ"
+            },
+            {
+                "answer": "레드벨벳 팬케이크, 쏠티드 카라멜 바나나 프렌치 토스트 강추합니다!",
+                "replier": "핑구/필리"
+            },
+            {
+                "answer": "브런치로 Green Eggs Cafe 추천해요!",
+                "replier": "테이러/브린모어"
+            },
+            {
+                "answer": "팬케이크 강추! Cash only 주의하세요.",
+                "replier": "핑구/필리"
+            },
+            {
+                "answer": "저도 가봤어요, 팬케이크 정말 맛있어요!",
+                "replier": "만두/NJ"
+            }
+        ],
+        "category": "restaurant",
+        "date": "Mar 9, 2025",
+        "name": "당근/lowermerion",
+        "question": "브런치 어디로 드시러 가시나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "가지볶음, 탕수육, 짬뽕 정말 맛있어요!",
+                "replier": "만두/NJ"
+            },
+            {
+                "answer": "기본기가 아주 좋은 곳이에요.",
+                "replier": "조제/첼튼햄"
+            }
+        ],
+        "category": "restaurant",
+        "date": "Mar 9, 2025",
+        "name": "Nat/NW",
+        "question": "Ming's Restaurant 추천합니다! 한국스타일 중국음식 정말 정갈하고 맛있어요."
+    },
+    {
+        "answers": [
+            {
+                "answer": "체스트넛힐 추천해요! 유럽풍 거리라 정말 분위기 좋아요.",
+                "replier": "PhillyLover/Media"
+            },
+            {
+                "answer": "Bredenbeck's Bakery 추천합니다. 피칸파이 최고예요!",
+                "replier": "홍홍/블루벨"
+            }
+        ],
+        "category": "travel",
+        "date": "Mar 9, 2025",
+        "name": "헬로필리/노스센트럴",
+        "question": "필라델피아 처음인데 좋은 곳들 추천 감사합니다!"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Costco interstate 또는 AC Delco 추천합니다.",
+                "replier": "Phil/Philly"
+            },
+            {
+                "answer": "오랫동안 사용 안 해서 방전됐으면 점프 케이블로 충전해 보세요.",
+                "replier": "Anthony/Conshy"
+            }
+        ],
+        "category": "car",
+        "date": "Mar 10, 2025",
+        "name": "Soo/Malvern",
+        "question": "자동차 배터리는 어디서 사는 게 좋은가요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "미씨USA 산후조리사 후기 게시판에서 찾아보세요!",
+                "replier": "코비/NorthWales"
+            },
+            {
+                "answer": "입주 도우미 예약 필수예요. 3주 기준 5400불 예상됩니다.",
+                "replier": "바비/LowerGwynedd"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 10, 2025",
+        "name": "Tube/brynmawr",
+        "question": "산후도우미 추천 부탁드려요!"
+    },
+    {
+        "answers": [
+            {
+                "answer": "원하시는 가격대나 차종 올려보시면 찾기 쉬울 수도 있어요!",
+                "replier": "PhillyLover/Media"
+            },
+            {
+                "answer": "그냥 딜러 가서 네고 해보는 것도 방법입니다.",
+                "replier": "고고/도일리스타운"
+            }
+        ],
+        "category": "car",
+        "date": "Mar 10, 2025",
+        "name": "Anthony/Conshy",
+        "question": "급하게 중고차를 사야 하는데 파는 분 계신가요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "3주 기준 5400불 정도였어요.",
+                "replier": "바비/LowerGwynedd"
+            },
+            {
+                "answer": "입주 도우미는 15일 기준 4000~5000불 예상해야 해요.",
+                "replier": "돌돌/필라"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 10, 2025",
+        "name": "돌돌/필라",
+        "question": "산후도우미 2주 동안 이용했는데 정말 만족했어요. 가격 정보 공유해요!"
+    },
+    {
+        "answers": [
+            {
+                "answer": "한국에서처럼 이사하는 건 비용이 많이 들어요. 반포장이사로 진행하는 것도 방법입니다.",
+                "replier": "PhillyLover/Media"
+            },
+            {
+                "answer": "'스티브이사' 추천받았어요. 한국업체입니다.",
+                "replier": "당근/lowermerion"
+            },
+            {
+                "answer": "Digem Movers 추천합니다. 리얼터한테 추천받았어요.",
+                "replier": "코비/NorthWales"
+            }
+        ],
+        "category": "housing",
+        "date": "Mar 11, 2025",
+        "name": "수수/센터시티",
+        "question": "필라델피아에서 저지시티로 이사 가려는데 한인 이삿짐 업체 추천 해주실 수 있나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "안 위험해요.",
+                "replier": "유저/필라"
+            }
+        ],
+        "category": "travel",
+        "date": "Mar 13, 2025",
+        "name": "NY/ucity",
+        "question": "밤 12시 30분에 필라 공항에서 우버 탑승 위험할까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "DC에 가면 푸드트럭도 많고, 먹을 것도 많아요. 재밌었습니다!",
+                "replier": "고고/도일리스타운"
+            }
+        ],
+        "category": "travel",
+        "date": "Mar 13, 2025",
+        "name": "국밥/렌즈데일",
+        "question": "워싱턴 DC에서 National Cherry Blossom Festival 2025가 3월 20일부터 4월 13일까지 열린다고 합니다."
+    },
+    {
+        "answers": [
+            {
+                "answer": "리턴은 잘 모르겠지만, 고장 수리와 교체는 쿨하게 해줘요. 계약서 확인해 보세요.",
+                "replier": "뷰티풀/드레셔"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 13, 2025",
+        "name": "당근/lowermerion",
+        "question": "Music & Arts에서 악기 빌려보신 분 계신가요? 하루 만에 리턴하면 환불 받을 수 있을까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "챌튼햄 H-mart 2층 안경점에 닥터 와요! 캐시로 해도 저렴했어요.",
+                "replier": "Hello/philly"
+            }
+        ],
+        "category": "medical",
+        "date": "Mar 14, 2025",
+        "name": "Bobi/센터시티",
+        "question": "저렴하고 믿을 만한 안과(Eye Doctor) 추천 부탁드립니다."
+    },
+    {
+        "answers": [
+            {
+                "answer": "iPad Air 7세대도 세금과 부과세가 붙어서 한국에서 사는 게 더 싸겠더라고요.",
+                "replier": "위드/체리힐"
+            },
+            {
+                "answer": "직접 가져가는 게 아니면 세금이 붙어요.",
+                "replier": "국밥/렌즈데일"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 14, 2025",
+        "name": "너트/필라",
+        "question": "한국으로 중고 아이폰을 택배로 보내면 세금이 붙나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "저는 Udemy에서 'ChatGPT Masterclass: The Guide to AI & Prompt Engineering' 들었습니다.",
+                "replier": "Anthony/Conshy"
+            }
+        ],
+        "category": "general",
+        "date": "Mar 14, 2025",
+        "name": "공공이/필라",
+        "question": "Prompt Engineering 코스 추천 부탁드립니다."
+    },
+    {
+        "answers": [
+            {
+                "answer": "어제 열었대요. 특별한 사은행사는 없고, 앱 가입하면 1 free pastry 쿠폰 줍니다.",
+                "replier": "나나/랜스데일"
+            }
+        ],
+        "category": "restaurant",
+        "date": "Mar 14, 2025",
+        "name": "제이미/랜스데일",
+        "question": "아씨 옆에 새로 오픈한 파리바게뜨에서 사은품 행사 진행하나요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "저는 차 보험이랑 같이 가입해서 연간 $120-$140 정도 내고 있어요.",
+                "replier": "벨맘/Philly"
+            },
+            {
+                "answer": "'Lemonade'라는 온라인 기반 보험사가 저렴해요. 한 번 견적 받아보세요.",
+                "replier": "엄지척/BrynMawr"
+            }
+        ],
+        "category": "housing",
+        "date": "Mar 14, 2025",
+        "name": "허니버터아몬드/센터시티",
+        "question": "Renter's insurance를 저렴하게 가입하는 방법이 있을까요?"
+    },
+    {
+        "answers": [
+            {
+                "answer": "Sampan 해피아워 괜찮아요! 바 테이블에 앉아야 해피아워 메뉴를 주문할 수 있어요.",
+                "replier": "허니버터아몬드/센터시티"
+            }
+        ],
+        "category": "restaurant",
+        "date": "Mar 14, 2025",
+        "name": "Bobi/센터시티",
+        "question": "필라 해피아워 좋은 곳 추천 부탁드립니다."
     }
+
 ]
