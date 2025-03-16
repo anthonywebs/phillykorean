@@ -7,7 +7,7 @@ let currInd = 0;
 let increase = 20;
 let showAnswers = false;
 let ranking = [];
-let rankingMax = 10;
+let rankingMax = 30;
 
 
 const ads = [
@@ -291,7 +291,7 @@ const handleRanking = () => {
   setTimeout(() => {
     getEl('js-loading').classList.add('hidden');
     getEl('js-ranking').classList.remove('hidden')
-  }, 2000);
+  }, 1000);
 }
 
 const handleClickRow = row => {
