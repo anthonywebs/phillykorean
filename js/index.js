@@ -31,6 +31,7 @@ const ads = [
 ];
 
 const renderAds = () => {
+
   const dt = new Date();
   // dt.setHours(dt.getHours() + 3); // test
   const hours = dt.getHours();
@@ -41,28 +42,34 @@ const renderAds = () => {
 
   const adEl = getEl('js-ad');
 
-  // for (let i = 0; i < ads.length; i++) {
-  //   adEl.innerHTML += `
-  //       <div class='ad-img-wr'>
-  //         <a target='_blank' href='${ads[i].url}'><img class='ad-img' src='./img/b${i}.jpg' />
-  //           <span class='ad-text'>${ads[i].desc}</span>
-  //         </a>
-  //       </div>
-  //   `;
-  // }
+  if (isMobile()) {
+    adEl.innerHTML = `
+        <div class='ad-img-wr'>
+          <a target='_blank' href='${ads[left].url}'><img class='ad-img' src='./img/b${left}.jpg' />
+            <span class='ad-text'>${ads[left].desc}</span>
+          </a>
+        </div>
+        <div class='ad-img-wr'>
+          <a target='_blank' href='${ads[right].url}'><img class='ad-img' src='./img/b${right}.jpg' />
+            <span class='ad-text'>${ads[right].desc}</span>
+          </a>
+        </div>
+    `;
 
-  adEl.innerHTML = `
+  } else {
+    for (let i = 0; i < ads.length; i++) {
+      adEl.innerHTML += `
           <div class='ad-img-wr'>
-            <a target='_blank' href='${ads[left].url}'><img class='ad-img' src='./img/b${left}.jpg' />
-              <span class='ad-text'>${ads[left].desc}</span>
+            <a target='_blank' href='${ads[i].url}'><img class='ad-img' src='./img/b${i}.jpg' />
+              <span class='ad-text'>${ads[i].desc}</span>
             </a>
           </div>
-          <div class='ad-img-wr'>
-            <a target='_blank' href='${ads[right].url}'><img class='ad-img' src='./img/b${right}.jpg' />
-              <span class='ad-text'>${ads[right].desc}</span>
-            </a>
-          </div>
-  `;
+      `;
+    }
+
+  }
+
+
 
 }
 
