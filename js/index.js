@@ -7,6 +7,7 @@ let currInd = 0;
 let increase = 20;
 let showAnswers = false;
 let ranking = [];
+let rankingMax = 10;
 
 
 const ads = [
@@ -334,7 +335,7 @@ const renderRanking = () => {
   const table = getEl('js-ranking');
   const topScore = ranking[0].cnt;
 
-  for (let i = 0; i < 50; i++) {
+  for (let i = 0; i < rankingMax; i++) {
 
     const { name, cnt } = ranking[i];
     // const progress = parseInt(issue.donePoint / updatedTotalPoint * 100, 10);
