@@ -16,10 +16,6 @@ const ads = [
     // desc: "필라델피아 한인들을 위한 23년 경력 리얼터"
   },
   {
-    url: "https://towerpa.com/",
-    desc: "집수리, 리모델링, 플로어링, 페인트 [North Wales]"
-  },
-  {
     url: "https://www.hcmhomeservices.com/",
     desc: "HVAC전문 (난방, 에어컨, 보일러) 및 집 리모델링"
   },
@@ -27,11 +23,15 @@ const ads = [
     url: "https://www.google.com/maps/place/Rock+%26+Symphony+Learning+Center/@40.2319445,-75.270661,16z/data=!3m1!4b1!4m6!3m5!1s0x89c6a3b3cd785d5b:0xc6fe3d01e87e976c!8m2!3d40.2319445!4d-75.2680861!16s%2Fg%2F11lfbcd9y4?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
     desc: "뮤직 레슨, 악기 세일/렌트 [North Wales]"
   },
+  {
+    url: "https://towerpa.com/",
+    desc: "집수리, 리모델링, 플로어링, 페인트 [North Wales]"
+  },
 ];
 
 const renderAds = () => {
   const dt = new Date();
-  // dt.setHours(dt.getHours() + 4); // test
+  // dt.setHours(dt.getHours() + 3); // test
   const hours = dt.getHours();
   const len =  ads.length;
 
@@ -40,28 +40,28 @@ const renderAds = () => {
 
   const adEl = getEl('js-ad');
 
-  for (let i = 0; i < ads.length; i++) {
-    adEl.innerHTML += `
-        <div class='ad-img-wr'>
-          <a target='_blank' href='${ads[i].url}'><img class='ad-img' src='./img/b${i}.jpg' />
-            <span class='ad-text'>${ads[i].desc}</span>
-          </a>
-        </div>
-    `;
-  }
+  // for (let i = 0; i < ads.length; i++) {
+  //   adEl.innerHTML += `
+  //       <div class='ad-img-wr'>
+  //         <a target='_blank' href='${ads[i].url}'><img class='ad-img' src='./img/b${i}.jpg' />
+  //           <span class='ad-text'>${ads[i].desc}</span>
+  //         </a>
+  //       </div>
+  //   `;
+  // }
 
-  // adEl.innerHTML = `
-  //         <div class='ad-img-wr'>
-  //           <a target='_blank' href='${ads[left].url}'><img class='ad-img' src='./img/b${left}.jpg' />
-  //             <span class='ad-text'>${ads[left].desc}</span>
-  //           </a>
-  //         </div>
-  //         <div class='ad-img-wr'>
-  //           <a target='_blank' href='${ads[right].url}'><img class='ad-img' src='./img/b${right}.jpg' />
-  //             <span class='ad-text'>${ads[right].desc}</span>
-  //           </a>
-  //         </div>
-  // `;
+  adEl.innerHTML = `
+          <div class='ad-img-wr'>
+            <a target='_blank' href='${ads[left].url}'><img class='ad-img' src='./img/b${left}.jpg' />
+              <span class='ad-text'>${ads[left].desc}</span>
+            </a>
+          </div>
+          <div class='ad-img-wr'>
+            <a target='_blank' href='${ads[right].url}'><img class='ad-img' src='./img/b${right}.jpg' />
+              <span class='ad-text'>${ads[right].desc}</span>
+            </a>
+          </div>
+  `;
 
 }
 
