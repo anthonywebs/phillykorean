@@ -147,7 +147,7 @@ const fetchData = async () => {
     DATA.reverse();
 
     filteredData = [...DATA];
-    // filteredData.sort((a, b) => Math.random() - 0.5);
+    filteredData.sort((a, b) => Math.random() - 0.5);
   })
   .catch(error => console.error('Error loading JSON:', error));
 }
