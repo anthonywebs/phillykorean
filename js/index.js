@@ -379,7 +379,7 @@ const main = async () => {
 
   renderBanner();
   renderTable();
-  // renderAds();
+  renderAds();
   renderRanking();
 
   if (id !== '') {
