@@ -37,8 +37,12 @@ const renderAds = () => {
   const hours = dt.getHours();
   const len =  ads.length;
 
-  const left = hours % len;
+  let left = hours % len;
   let right = (left + 1) % len;
+
+  // override
+  left = 3;
+  right = 0;
 
   const adEl = getEl('js-ad');
 
